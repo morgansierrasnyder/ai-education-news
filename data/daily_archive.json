@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "date": "2026-05-23T11:32:40.879572+00:00",
+    "articles": [
+      {
+        "title": "Using Brain Waves to Translate Thoughts into Pictures",
+        "url": "https://nautil.us/using-brain-waves-to-translate-thoughts-into-pictures-1281151/",
+        "summary": "Young scientists dream up a way to decipher the mind\u2019s eye with EEG and AI\nThe post Using Brain Waves to Translate Thoughts into Pictures appeared first on Nautilus.",
+        "published": "2026-05-22T15:00:00+00:00",
+        "source_theme": "big_picture",
+        "source_feed": "Nautilus",
+        "primary_theme": "ai_education",
+        "reason": "AI/neuroscience innovation, future implications for learning.",
+        "relevance": 7,
+        "importance": 7,
+        "claude_summary": "Full read needed \u2014 The snippet doesn't reveal enough to characterize the argument or findings precisely. Based on what's available: researchers are using EEG signals combined with AI to reconstruct mental imagery, translating brain activity into visual output without invasive hardware. The Nautilus framing suggests this may be a profile of early-career researchers rather than a peer-reviewed findings piece."
+      },
+      {
+        "title": "George Floyd Was Murdered Six Years Ago On May 25th \u2013 Here Are Teaching & Learning Resources",
+        "url": "https://larryferlazzo.edublogs.org/2026/05/23/george-floyd-was-murdered-six-years-ago-on-may-25th-here-are-teaching-learning-resources/",
+        "summary": "&#160; George Floyd was murdered six years ago. It was terrible,\u00a0 and Mr. Floyd was just one of many African-Americans who have been the victim of police violence. You might be interested in: HELPFUL RESOURCES FOR TEACHING ABOUT GEORGE FLOYD\u2019S DEATH CLASSROOM LESSON IDEAS TO DISCUSS THE CHAUVIN VERDICT \u2013 PLEASE SUGGEST MORE New &#38; [&#8230;]",
+        "published": "2026-05-23T07:29:13+00:00",
+        "source_theme": "practitioner_stories",
+        "source_feed": "Larry Ferlazzo's Websites of the Day\u2026",
+        "primary_theme": "innovation_education",
+        "reason": "Teaching resources for social justice, curriculum innovation.",
+        "relevance": 7,
+        "importance": 7,
+        "claude_summary": "Larry Ferlazzo has compiled teaching and learning resources marking the sixth anniversary of George Floyd's murder on May 25, 2020. The collection includes classroom lesson ideas and resources for discussing police violence against Black Americans. No new analysis or findings \u2014 this is a resource roundup for educators."
+      },
+      {
+        "title": "Finally a Commencement Speech That Gets AI Right",
+        "url": "https://nautil.us/finally-a-commencement-speech-that-gets-ai-right-1281182/",
+        "summary": "Leave it to The Woz to hit the right note with freshly minted graduates\nThe post Finally a Commencement Speech That Gets AI Right appeared first on Nautilus.",
+        "published": "2026-05-22T19:00:00+00:00",
+        "source_theme": "big_picture",
+        "source_feed": "Nautilus",
+        "primary_theme": "ai_education",
+        "reason": "Wozniak's commencement speech on AI's future.",
+        "relevance": 6,
+        "importance": 6,
+        "claude_summary": "Full read needed \u2014 The snippet doesn't reveal the substance of Wozniak's argument beyond the premise that he struck the right tone on AI with graduates. Based on available context, the piece likely frames AI as a tool that amplifies human creativity and judgment rather than replacing it \u2014 and pushes back on both uncritical enthusiasm and paralyzing fear. Worth reading in full to extract the actual claims."
+      },
+      {
+        "title": "Video From Last Night Of The Late Night Show With Stephen Colbert: \u201d Hello Goodbye\u201d \u2013 The Most Popular Song For ELL Classrooms",
+        "url": "https://larryferlazzo.edublogs.org/2026/05/22/video-from-last-night-of-the-late-night-show-with-stephen-colbert-hello-goodbye-the-most-popular-song-for-ell-classrooms/",
+        "summary": "&#160; What ELL teacher hasn&#8217;t used this song in their classroom?",
+        "published": "2026-05-22T19:52:13+00:00",
+        "source_theme": "practitioner_stories",
+        "source_feed": "Larry Ferlazzo's Websites of the Day\u2026",
+        "primary_theme": "innovation_education",
+        "reason": "Concrete pedagogical tool for ELL classrooms.",
+        "relevance": 6,
+        "importance": 5,
+        "claude_summary": "Full read needed \u2014 The post appears to share a video clip of \"Hello Goodbye\" by The Beatles as a classroom resource, framed as a widely-used ELL teaching tool for vocabulary and conversation. No substantive argument or new finding is present beyond the resource share."
+      }
+    ]
+  }
+]
