@@ -55,5 +55,75 @@
         "claude_summary": "Full read needed \u2014 The post appears to share a video clip of \"Hello Goodbye\" by The Beatles as a classroom resource, framed as a widely-used ELL teaching tool for vocabulary and conversation. No substantive argument or new finding is present beyond the resource share."
       }
     ]
+  },
+  {
+    "date": "2026-05-24T11:35:21.983251+00:00",
+    "articles": [
+      {
+        "title": "L.A. Unified Students Who Get Real-World Job Training Are Also Better Prepared for College",
+        "url": "https://www.the74million.org/article/l-a-unified-students-who-get-real-world-job-training-are-also-better-prepared-for-college/",
+        "summary": "When a patient at Los Angeles General Medical Center experienced a medical emergency, Brandon Maldonado grabbed an intercom and called a \u201ccode blue\u201d to bring immediate help from emergency hospital staff.&#160; The Bravo Medical Magnet High School senior had trained for such emergencies through Los Angeles Unified\u2019s patient care pathway \u2014 one of several career [&#8230;]",
+        "published": "2026-05-23T16:30:00+00:00",
+        "source_theme": "ai_education",
+        "source_feed": "The 74",
+        "primary_theme": "innovation_education",
+        "reason": "Concrete story of real-world job training and college readiness.",
+        "relevance": 9,
+        "importance": 8,
+        "claude_summary": "L.A. Unified data shows students enrolled in career and technical education pathways\u2014including health care, engineering, and other industry tracks\u2014outperform peers on college-readiness metrics while gaining hands-on professional experience. The district is pushing back against the false choice between vocational and academic preparation, with programs like Bravo Medical Magnet embedding students in real clinical settings without sacrificing A-G course completion."
+      },
+      {
+        "title": "Autistic students who make it through college face a bigger challenge: getting jobs",
+        "url": "https://hechingerreport.org/autistic-students-who-make-it-through-college-face-a-bigger-challenge-getting-jobs/",
+        "summary": "\nPHILADELPHIA \u2014 The college gym is packed with employers offering work opportunities, but Jimmy Myers, a freshman at Drexel University, has come to the career fair to speak with just one of them: the Southeastern Pennsylvania Transportation Authority. A self-described \u201ctrain nerd,\u201d Myers has been closely tracking progress on the railway\u2019s trolley modernization project. And [&#8230;]\nThe post Autistic students who make it through college face a bigger challenge: getting jobs appeared first on The Hechinger Report.",
+        "published": "2026-05-24T05:00:00+00:00",
+        "source_theme": "ai_education",
+        "source_feed": "The Hechinger Report",
+        "primary_theme": "human_flourishing",
+        "reason": "Concrete story on student wellbeing and post-college pathways.",
+        "relevance": 8,
+        "importance": 7,
+        "claude_summary": "Autistic college graduates face steep barriers to employment despite earning degrees, with traditional hiring processes like unstructured interviews disproportionately screening them out. Some universities, including Drexel, are building targeted career support programs that connect autistic students directly with employers willing to adapt their recruitment practices."
+      },
+      {
+        "title": "How to Live Fully: Ursula K. Le Guin\u2019s Remedy for Our Resistance to Change",
+        "url": "https://www.themarginalian.org/2026/05/24/le-guin-lathe-of-heaven-change/",
+        "summary": "The most assuring thing about life is that we can change, that things can change, that they are always changing. The most maddening is that despite living in a universe that is one constant transmutation of energy and matter, despite living in bodies and minds whose cells and ideas are constantly being replaced, we so vehemently resist change, too afraid to unsettle the structure of our lives &#8212; even when it doesn&#8217;t serve us. &#8220;People wish to be settled,&#8221; Emerson wrote, &#8220;[but] only as far as they are unsettled is there any hope for them.&#8221; In another epoch, another prophet&#8230;&#160;read&#160;article",
+        "published": "2026-05-24T04:22:06+00:00",
+        "source_theme": "big_picture",
+        "source_feed": "The Marginalian",
+        "primary_theme": "futures_philosophy",
+        "reason": "Philosophical piece on change, relevant to human flourishing and education's purpose.",
+        "relevance": 7,
+        "importance": 7,
+        "claude_summary": "Le Guin argued that genuine aliveness requires surrendering the illusion of a fixed self \u2014 that clinging to a settled identity is not stability but stagnation. Drawing on her fiction and essays, the piece frames resistance to change as a failure of imagination, not a reasonable defense. The remedy is practicing what Le Guin called \"going\"\u2014 moving through transformation rather than around it."
+      },
+      {
+        "title": "The Log from the Sea of Cortez: John Steinbeck\u2019s Forgotten Masterpiece on How to Think and the Art of Seeing the Pattern Beyond the Particular",
+        "url": "https://www.themarginalian.org/2026/05/23/steinbeck-log-from-the-sea-of-cortez/",
+        "summary": "\"Everything impinges on everything else... Everything is potentially everywhere.\"",
+        "published": "2026-05-24T01:24:08+00:00",
+        "source_theme": "big_picture",
+        "source_feed": "The Marginalian",
+        "primary_theme": "futures_philosophy",
+        "reason": "Philosophical piece on thinking and interdisciplinary learning.",
+        "relevance": 7,
+        "importance": 7,
+        "claude_summary": "The Marginalian is doing close reading of Steinbeck's *Log from the Sea of Cortez*, surfacing his argument that genuine thinking requires holding the particular and the universal simultaneously \u2014 seeing the individual specimen without losing sight of the web of relationships it reveals. Steinbeck frames most human perception as a failure of this dual attention, collapsing either into data-collection or vague abstraction. The core claim: pattern-recognition and concrete observation aren't opposites but disciplines that must be practiced together."
+      },
+      {
+        "title": "\u201c12 Ways Administrators Can Support Teachers\u201d",
+        "url": "https://larryferlazzo.edublogs.org/2026/05/24/12-ways-administrators-can-support-teachers/",
+        "summary": "12 Ways Administrators Can Support Teachers is the headline of one of my recent Education Week columns. Principals show they value well-being through leading by example. Here are some excerpts:",
+        "published": "2026-05-24T07:20:36+00:00",
+        "source_theme": "practitioner_stories",
+        "source_feed": "Larry Ferlazzo's Websites of the Day\u2026",
+        "primary_theme": "human_flourishing",
+        "reason": "Practical advice for administrator support and teacher wellbeing.",
+        "relevance": 6,
+        "importance": 6,
+        "claude_summary": "Full read needed \u2014 The snippet offers only a headline and a single line before cutting off. Based on what's visible, the piece compiles practitioner advice on concrete actions administrators can take to support teacher well-being, with leading by example cited as one principle."
+      }
+    ]
   }
 ]
