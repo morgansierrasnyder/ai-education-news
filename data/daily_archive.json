@@ -125,5 +125,36 @@
         "claude_summary": "Full read needed \u2014 The snippet offers only a headline and a single line before cutting off. Based on what's visible, the piece compiles practitioner advice on concrete actions administrators can take to support teacher well-being, with leading by example cited as one principle."
       }
     ]
+  },
+  {
+    "date": "2026-05-31T11:38:55.074011+00:00",
+    "articles": [
+      {
+        "title": "Tribal Students in Central Wyoming Release Small Fish in a Big Pond",
+        "url": "https://www.the74million.org/article/tribal-students-in-central-wyoming-release-small-fish-in-a-big-pond/",
+        "summary": "RAY LAKE, Wyo. \u2014 There was a lot of giggling in the parking lot as teenagers plunged bare hands into coolers filled with small, slippery rainbow trout fry.&#160; The objective was to catch the fish in clear plastic cups, but the juvenile trout were fast and very squirmy, and the effort elicited shrieks, splashing and [&#8230;]",
+        "published": "2026-05-30T16:30:00+00:00",
+        "source_theme": "ai_education",
+        "source_feed": "The 74",
+        "primary_theme": "innovation_education",
+        "reason": "Concrete project-based learning story.",
+        "relevance": 8,
+        "importance": 7,
+        "claude_summary": "Full read needed \u2014 The snippet establishes a scene of tribal students in central Wyoming releasing trout fry into a lake, suggesting a hands-on conservation or environmental education program, but the article's core findings, outcomes, or educational significance aren't clear from the excerpt alone."
+      },
+      {
+        "title": "The Tulsa Race Massacre Happened 106 Years Today \u2013 Here Are Teaching & Learning Resources",
+        "url": "https://larryferlazzo.edublogs.org/2026/05/31/the-tulsa-race-massacre-happened-106-years-today-here-are-teaching-learning-resources/",
+        "summary": "Collection of the Smithsonian National Museum of African American History and Culture &#160; The terrible Tulsa Race Massacre happened 106 years ago today. You might be interested in MAY 31ST &#38; JUNE 1ST WERE THE DATES OF THE TULSA RACE MASSACRE \u2013 HERE ARE TEACHING &#38; LEARNING RESOURCES.",
+        "published": "2026-05-31T07:31:19+00:00",
+        "source_theme": "practitioner_stories",
+        "source_feed": "Larry Ferlazzo's Websites of the Day\u2026",
+        "primary_theme": "innovation_education",
+        "reason": "Valuable teaching resources for critical history.",
+        "relevance": 7,
+        "importance": 6,
+        "claude_summary": "Full read needed \u2014 This is a resource roundup marking the anniversary of the 1921 Tulsa Race Massacre, linking to Smithsonian NMAAHC materials and prior teaching collections. Classroom-ready for history, civil rights, or current events units."
+      }
+    ]
   }
 ]
