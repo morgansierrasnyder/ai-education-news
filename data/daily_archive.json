@@ -86,5 +86,88 @@
         "claude_summary": "Wembanyama publicly modeled accountability after costing the Spurs a game\u2014owning both the turnover and the missed final shot without deflection. Ferlazzo flags the post-game interview as a ready-made SEL teaching moment on taking responsibility."
       }
     ]
+  },
+  {
+    "date": "2026-06-13T11:43:30.710325+00:00",
+    "articles": [
+      {
+        "title": "As AI Use in Schools Grows, Lawmakers and Districts Scramble to Set Up Guardrails",
+        "url": "https://www.the74million.org/article/as-ai-use-in-schools-grows-lawmakers-and-districts-scramble-to-set-up-guardrails/",
+        "summary": "With many students and educators already using widely available artificial intelligence tools, state lawmakers and school districts are playing catch-up on AI policies. In Maryland, for example, AI usage policies for K-12 schools are \u201call over the map,\u201d Democratic state Sen. Katie Fry Hester said. In some school districts, she said, AI use is encouraged, [&#8230;]",
+        "published": "2026-06-12T16:30:00+00:00",
+        "source_theme": "ai_education",
+        "source_feed": "The 74",
+        "primary_theme": "ai_education",
+        "reason": "AI policy, student tool use.",
+        "relevance": 9,
+        "importance": 8,
+        "claude_summary": "Schools and districts are racing to establish AI policies after widespread student and educator adoption has already outpaced governance, with states like Maryland seeing wildly inconsistent rules ranging from full encouragement to outright bans. Legislators are now pushing for standardized guardrails at the state level to impose coherence."
+      },
+      {
+        "title": "How to Feel at Home in the Modern World",
+        "url": "https://nautil.us/how-to-feel-at-home-in-the-modern-world-1281964/",
+        "summary": "A conversation with Harvard philosopher Ian Marcus Corbin on material, biological, and spiritual belonging\nThe post How to Feel at Home in the Modern World appeared first on Nautilus.",
+        "published": "2026-06-12T18:00:00+00:00",
+        "source_theme": "big_picture",
+        "source_feed": "Nautilus",
+        "primary_theme": "human_flourishing",
+        "reason": "Philosophical, meaning, purpose, belonging.",
+        "relevance": 8,
+        "importance": 8,
+        "claude_summary": "Full read needed \u2014 but based on the title and framing, Corbin likely argues that genuine belonging in modern life requires attending to material, biological, and spiritual dimensions together, not just social or psychological ones. The conversation probably pushes back against purely individualist or technocratic accounts of alienation. Worth reading if you're thinking about why students (or teachers) feel unmoored despite surface-level connectivity."
+      },
+      {
+        "title": "Texas\u2019 Charter School Boom May Soon Bust, Experts Caution",
+        "url": "https://www.the74million.org/article/texas-charter-school-boom-may-soon-bust-experts-caution/",
+        "summary": "Texas charter schools recently saw their smallest enrollment bump in state history, signaling that similar forces crushing traditional public districts may soon hit them as well. Students have enrolled in charters at significant rates since they launched in the state three decades ago \u2014 even as traditional public school enrollment started to fall. But with [&#8230;]",
+        "published": "2026-06-12T12:30:00+00:00",
+        "source_theme": "ai_education",
+        "source_feed": "The 74",
+        "primary_theme": "innovation_education",
+        "reason": "Trends in school models, system health.",
+        "relevance": 7,
+        "importance": 6,
+        "claude_summary": "Texas charter school enrollment growth hit a historic low, suggesting the demographic and enrollment pressures shrinking traditional public schools are now catching up to the charter sector. Experts warn the long-running assumption that charters can grow indefinitely by pulling from district schools is no longer reliable."
+      },
+      {
+        "title": "The Best Resources On The Gradual Release Of Responsibility Framework \u2013 And Its Variations",
+        "url": "https://larryferlazzo.edublogs.org/2026/06/13/the-best-resources-on-the-gradual-release-of-responsibility-framework-and-its-variations/",
+        "summary": "&#160; The Gradual Release of Responsibility Framework is known by just about every classroom teacher. And there are also several variations. Here are my choices for most useful resources for learning about it and its modifications: A Fourth Step: \u201cI Do, We Do, You Do\u201d and then \u201cYou Teach\u201d is one of my posts. Deciding: [&#8230;]",
+        "published": "2026-06-13T07:25:42+00:00",
+        "source_theme": "practitioner_stories",
+        "source_feed": "Larry Ferlazzo's Websites of the Day\u2026",
+        "primary_theme": "innovation_education",
+        "reason": "Practical pedagogy, learning sciences.",
+        "relevance": 7,
+        "importance": 6,
+        "claude_summary": "Full read needed \u2014 This is a curated resource list by Larry Ferlazzo on the Gradual Release of Responsibility framework (\"I Do, We Do, You Do\") and its variations, including a proposed fourth step where students teach the content themselves. Useful as a reference collection rather than a single argument or finding."
+      },
+      {
+        "title": "A Surprising Sliver of Hope in New NAEP Scores for the Lowest-Performing Kids",
+        "url": "https://www.the74million.org/article/a-surprising-sliver-of-hope-in-new-naep-scores-for-the-lowest-performing-kids/",
+        "summary": "After years of bad news on student test scores, there&#8217;s finally a sliver of hope. The latest results from NAEP, the Nation\u2019s Report Card, found gains in both reading and math for 9-year-olds. Not only that, but they provide the first signs in more than a decade of increases among the nation\u2019s lowest-performing students.&#160;&#160; This [&#8230;]",
+        "published": "2026-06-12T18:30:00+00:00",
+        "source_theme": "ai_education",
+        "source_feed": "The 74",
+        "primary_theme": "innovation_education",
+        "reason": "National assessment, student gains.",
+        "relevance": 6,
+        "importance": 6,
+        "claude_summary": "The latest NAEP results show reading and math gains for 9-year-olds, with the lowest-performing students posting their first score increases in over a decade. The gains are narrow and come after years of pandemic-era decline, so they signal a floor more than a recovery."
+      },
+      {
+        "title": "Strong early math skills equal later algebra success",
+        "url": "https://hechingerreport.org/strong-early-math-skills-equal-later-algebra-success/",
+        "summary": "\nAlgebra I is known as a gateway class: Students who pass the course are more likely to take advanced math courses, graduate from college and earn more money as adults. But for many children, their path to success in Algebra I is formed years before they take the class. Third grade math scores can strongly [&#8230;]\nThe post Strong early math skills equal later algebra success appeared first on The Hechinger Report.",
+        "published": "2026-06-12T19:00:00+00:00",
+        "source_theme": "ai_education",
+        "source_feed": "The Hechinger Report",
+        "primary_theme": "innovation_education",
+        "reason": "Learning sciences, long-term impact.",
+        "relevance": 6,
+        "importance": 5,
+        "claude_summary": "Third-grade math scores are strong predictors of Algebra I success, suggesting the real intervention window for closing algebra gaps is years before students ever enter the course. Full read needed \u2014 the snippet cuts off before the specific findings or policy implications are detailed."
+      }
+    ]
   }
 ]
