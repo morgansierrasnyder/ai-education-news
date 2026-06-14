@@ -1,36 +1,5 @@
 [
   {
-    "date": "2026-05-31T11:38:55.074011+00:00",
-    "articles": [
-      {
-        "title": "Tribal Students in Central Wyoming Release Small Fish in a Big Pond",
-        "url": "https://www.the74million.org/article/tribal-students-in-central-wyoming-release-small-fish-in-a-big-pond/",
-        "summary": "RAY LAKE, Wyo. \u2014 There was a lot of giggling in the parking lot as teenagers plunged bare hands into coolers filled with small, slippery rainbow trout fry.&#160; The objective was to catch the fish in clear plastic cups, but the juvenile trout were fast and very squirmy, and the effort elicited shrieks, splashing and [&#8230;]",
-        "published": "2026-05-30T16:30:00+00:00",
-        "source_theme": "ai_education",
-        "source_feed": "The 74",
-        "primary_theme": "innovation_education",
-        "reason": "Concrete project-based learning story.",
-        "relevance": 8,
-        "importance": 7,
-        "claude_summary": "Full read needed \u2014 The snippet establishes a scene of tribal students in central Wyoming releasing trout fry into a lake, suggesting a hands-on conservation or environmental education program, but the article's core findings, outcomes, or educational significance aren't clear from the excerpt alone."
-      },
-      {
-        "title": "The Tulsa Race Massacre Happened 106 Years Today \u2013 Here Are Teaching & Learning Resources",
-        "url": "https://larryferlazzo.edublogs.org/2026/05/31/the-tulsa-race-massacre-happened-106-years-today-here-are-teaching-learning-resources/",
-        "summary": "Collection of the Smithsonian National Museum of African American History and Culture &#160; The terrible Tulsa Race Massacre happened 106 years ago today. You might be interested in MAY 31ST &#38; JUNE 1ST WERE THE DATES OF THE TULSA RACE MASSACRE \u2013 HERE ARE TEACHING &#38; LEARNING RESOURCES.",
-        "published": "2026-05-31T07:31:19+00:00",
-        "source_theme": "practitioner_stories",
-        "source_feed": "Larry Ferlazzo's Websites of the Day\u2026",
-        "primary_theme": "innovation_education",
-        "reason": "Valuable teaching resources for critical history.",
-        "relevance": 7,
-        "importance": 6,
-        "claude_summary": "Full read needed \u2014 This is a resource roundup marking the anniversary of the 1921 Tulsa Race Massacre, linking to Smithsonian NMAAHC materials and prior teaching collections. Classroom-ready for history, civil rights, or current events units."
-      }
-    ]
-  },
-  {
     "date": "2026-06-07T11:40:29.467781+00:00",
     "articles": [
       {
@@ -167,6 +136,50 @@
         "relevance": 6,
         "importance": 5,
         "claude_summary": "Third-grade math scores are strong predictors of Algebra I success, suggesting the real intervention window for closing algebra gaps is years before students ever enter the course. Full read needed \u2014 the snippet cuts off before the specific findings or policy implications are detailed."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-14T11:45:44.282017+00:00",
+    "articles": [
+      {
+        "title": "Nick Cave on the Two Pillars of a Meaningful Life",
+        "url": "https://www.themarginalian.org/2026/06/13/nick-cave-humility-curiosity/",
+        "summary": "\"Cultivating a questioning mind, of which conversation is the chief instrument, enriches our relationship with the world.\"",
+        "published": "2026-06-13T15:53:50+00:00",
+        "source_theme": "big_picture",
+        "source_feed": "The Marginalian",
+        "primary_theme": "human_flourishing",
+        "reason": "Philosophical insight on meaningful life, questioning mind, purpose of education.",
+        "relevance": 8,
+        "importance": 8,
+        "claude_summary": "Full read needed \u2014 but based on the snippet: Cave argues that a meaningful life rests on cultivating a questioning mind and that genuine conversation is its primary tool, not a byproduct. The implication is that meaning isn't found through answers or certainty but through sustained, relational inquiry."
+      },
+      {
+        "title": "Opinion: In Dallas Schools, Community Engagement Isn\u2019t Outreach \u2014 It\u2019s Infrastructure",
+        "url": "https://www.the74million.org/article/in-dallas-schools-community-engagement-isnt-outreach-its-infrastructure/",
+        "summary": "A recent commentary by Chad Aldeman highlighted research, drawn from focus groups in seven states, that found people in struggling school districts are not disengaged; rather, they run into walls when they try to get involved. It&#8217;s a structural problem that explains why community engagement efforts in schools so often fall short. School staffs are [&#8230;]",
+        "published": "2026-06-14T10:30:00+00:00",
+        "source_theme": "ai_education",
+        "source_feed": "The 74",
+        "primary_theme": "futures_philosophy",
+        "reason": "Structural problem of community engagement in schools.",
+        "relevance": 7,
+        "importance": 7,
+        "claude_summary": "Dallas ISD reframes community engagement not as an outreach add-on but as core operational infrastructure \u2014 the structural barriers families hit when trying to get involved, not their apathy, explain why schools in struggling districts fail to build meaningful participation. Research from focus groups across seven states confirms that people *want* to engage but repeatedly run into institutional walls. The implication for educators: fixing engagement means redesigning systems, not running more events."
+      },
+      {
+        "title": "Wyoming Students Spend Less Time in PE. An Expert Wants to Change That.",
+        "url": "https://www.the74million.org/article/wyoming-students-spend-less-time-in-pe-an-expert-wants-to-change-that/",
+        "summary": "The squeak of sneakers on a gym floor and squawk of whistles are common school sounds during PE class. But with the increasing emphasis on academic testing in recent decades, are Wyoming public school students getting enough physical education and activity? Likely not, said Dr. Ben Kern, an associate professor at the University of Wyoming [&#8230;]",
+        "published": "2026-06-13T16:30:00+00:00",
+        "source_theme": "ai_education",
+        "source_feed": "The 74",
+        "primary_theme": "human_flourishing",
+        "reason": "Focus on student physical wellbeing and holistic education.",
+        "relevance": 6,
+        "importance": 5,
+        "claude_summary": "Full read needed \u2014 The snippet establishes the question but doesn't detail Kern's specific findings or proposals. What's clear: a University of Wyoming researcher argues Wyoming students are getting insufficient physical education, likely due to academic testing pressures, and is pushing for policy or practice changes."
       }
     ]
   }
