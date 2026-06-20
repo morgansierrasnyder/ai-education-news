@@ -182,5 +182,49 @@
         "claude_summary": "Full read needed \u2014 The snippet establishes the question but doesn't detail Kern's specific findings or proposals. What's clear: a University of Wyoming researcher argues Wyoming students are getting insufficient physical education, likely due to academic testing pressures, and is pushing for policy or practice changes."
       }
     ]
+  },
+  {
+    "date": "2026-06-20T11:44:48.906940+00:00",
+    "articles": [
+      {
+        "title": "Indianapolis Teacher Merit Pay in Charter Schools Gets Increasing Philanthropic Support",
+        "url": "https://www.the74million.org/article/indianapolis-teacher-merit-pay-in-charter-schools-gets-increasing-philanthropic-support/",
+        "summary": "Courtney Buuck thought there was some kind of mistake. When she learned that she received a $40,000 bonus payment on top of her base teacher\u2019s salary last fall, she was in shock. Like other staff at United Schools of Indianapolis\u2019 three charter schools, she was eligible for a bonus based on her year-end evaluation score. [&#8230;]",
+        "published": "2026-06-20T10:30:00+00:00",
+        "source_theme": "ai_education",
+        "source_feed": "The 74",
+        "primary_theme": "innovation_education",
+        "reason": "Named teacher, school, concrete example of compensation innovation.",
+        "relevance": 7,
+        "importance": 6,
+        "claude_summary": "Philanthropic funders are increasingly backing merit-pay models at Indianapolis charter schools, where teachers can earn large bonuses \u2014 up to $40,000 \u2014 tied to evaluation scores. The piece centers on United Schools of Indianapolis as a case study for performance-based compensation funded outside traditional district budgets.\n\nFull read needed \u2014 the snippet doesn't reveal which funders are involved, the scale of investment, or whether student outcome data supports the model."
+      },
+      {
+        "title": "To No Ones Surprise, Researchers Find That That The Key Principles Of Self-Determination Theory Find That It Applies To Language-Learners\u2019 Motivation, Too",
+        "url": "https://larryferlazzo.edublogs.org/2026/06/20/to-no-ones-surprise-researchers-find-that-that-the-key-principles-of-self-determination-theory-find-that-it-applies-to-language-learners-motivation-too/",
+        "summary": "&#160; I&#8217;ve written constantly about how the tenets of Self-Determination Theory (autonomy, relatedness, competence, relevance) are key to creating the conditions where student intrinsic motivation can thrive in the classroom &#8211; for language learners and for everybody else. Now, a specific study on Self-Determination Theory finds that to be the case for language learners. Self\u2011Determination [&#8230;]",
+        "published": "2026-06-20T07:30:06+00:00",
+        "source_theme": "practitioner_stories",
+        "source_feed": "Larry Ferlazzo's Websites of the Day\u2026",
+        "primary_theme": "human_flourishing",
+        "reason": "Applies learning science (SDT) to student motivation in classrooms.",
+        "relevance": 7,
+        "importance": 6,
+        "claude_summary": "A new study confirms that Self-Determination Theory's four pillars \u2014 autonomy, competence, relatedness, and relevance \u2014 drive intrinsic motivation in language learners, consistent with what's already well-established across learner populations. No surprises here, but the domain-specific evidence adds weight for educators who need research backing when designing ELL instruction. Build conditions for those four factors and motivation follows."
+      },
+      {
+        "title": "Juneteenth Reminds Us of Black Americans\u2019 Long Struggle for Education Following End of\u00a0Slavery",
+        "url": "https://www.the74million.org/article/juneteenth-reminds-us-of-black-americans-long-struggle-for-education-following-end-of-slavery/",
+        "summary": "The abolitionist and writer Frederick Douglass is known for many things, but perhaps among the most significant is his views on education\u2019s relationship to slavery. Douglass himself was born into slavery in Maryland in 1818. Douglass described in his 1845 autobiography how one of his enslavers, Mrs. Auld, began teaching him to read when he [&#8230;]",
+        "published": "2026-06-19T14:30:00+00:00",
+        "source_theme": "ai_education",
+        "source_feed": "The 74",
+        "primary_theme": "futures_philosophy",
+        "reason": "Historical context of education's purpose and equity.",
+        "relevance": 6,
+        "importance": 6,
+        "claude_summary": "Full read needed \u2014 Based on the snippet, the piece uses Juneteenth as a frame to trace Black Americans' pursuit of literacy and formal education from slavery through emancipation, likely drawing on Douglass's firsthand account of how reading was suppressed as a tool of control. The core argument appears to be that the denial of education was foundational to slavery, making its pursuit an act of liberation \u2014 a history worth keeping visible on Juneteenth."
+      }
+    ]
   }
 ]
