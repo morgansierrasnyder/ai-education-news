@@ -1,62 +1,5 @@
 [
   {
-    "date": "2026-06-07T11:40:29.467781+00:00",
-    "articles": [
-      {
-        "title": "Artificial Intelligence Is Here To Stay. Are Hawai\u02bbi Schools Ready?",
-        "url": "https://www.the74million.org/article/artificial-intelligence-is-here-to-stay-are-hawai%ca%bbi-schools-ready/",
-        "summary": "For many schools, it\u2019s a race to keep up. Others are leading the pack. And some are unsure what to do with it. Artificial intelligence is playing an increasingly prominent role in Hawai\u02bbi education, from the recent opening of the state\u2019s first AI-focused charter school to the development of new coursework teaching students how to [&#8230;]",
-        "published": "2026-06-07T10:30:00+00:00",
-        "source_theme": "ai_education",
-        "source_feed": "The 74",
-        "primary_theme": "ai_education",
-        "reason": "Concrete example of AI in schools, specific charter school.",
-        "relevance": 9,
-        "importance": 8,
-        "claude_summary": "Full read needed \u2014 The snippet establishes that Hawaii schools are at varying stages of AI adoption \u2014 ranging from a new AI-focused charter school to districts still figuring out their approach \u2014 but doesn't reveal specific findings, data, or a clear argument beyond the framing."
-      },
-      {
-        "title": "J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There\u2019s No Such Thing as Writing \u201cFor Children\u201d",
-        "url": "https://www.themarginalian.org/2026/06/06/j-r-r-tolkien-on-fairy-stories/",
-        "summary": "\"Creative fantasy, because it is mainly trying to do something else (make something new), may open your hoard and let all the locked things fly away like cage-birds.\"",
-        "published": "2026-06-06T22:39:00+00:00",
-        "source_theme": "big_picture",
-        "source_feed": "The Marginalian",
-        "primary_theme": "arts_education",
-        "reason": "Philosophical take on creative fantasy, language, and learning.",
-        "relevance": 7,
-        "importance": 8,
-        "claude_summary": "Tolkien argues that fantasy is not escapism in the pejorative sense but a legitimate act of sub-creation \u2014 humans making new worlds as an extension of their nature as creatures made by a creator. Writing \"for children\" is a false category; if a story is good, it's good for everyone, and condescending to young readers reflects a failure of craft and honesty. Language and myth-making are inseparable: the invented word and the invented world co-arise, and fantasy at its best liberates imagination in ways realistic fiction cannot."
-      },
-      {
-        "title": "Schools Are Spending $4 Billion Annually On SEL, Apparently Much Of It On Digital Platforms?  Give Me A Break\u2026.",
-        "url": "https://larryferlazzo.edublogs.org/2026/06/07/schools-are-spending-4-billion-annually-on-sel-apparently-much-of-it-on-digital-platforms-give-me-a-break/",
-        "summary": "&#160; Education Week recently published an article, Is Your School\u2019s SEL Strategy Working? The Questions Every Educator Should Ask, which highlighted the above statistic. The article linked to two resources.\u00a0 One is the Social and Emotional Learning Market Report 2026, which primarily talks about paying for digital resources. The other is a resource for &#8220;Evidence-Based [&#8230;]",
-        "published": "2026-06-07T07:10:59+00:00",
-        "source_theme": "practitioner_stories",
-        "source_feed": "Larry Ferlazzo's Websites of the Day\u2026",
-        "primary_theme": "human_flourishing",
-        "reason": "Critical look at SEL spending and effectiveness in schools.",
-        "relevance": 8,
-        "importance": 7,
-        "claude_summary": "Full read needed \u2014 Ferlazzo pushes back on an Education Week claim that schools spend $4 billion annually on SEL, arguing the figure is driven by digital platform sales rather than reflecting genuine instructional investment in social-emotional learning. He's skeptical that vendor-driven spending data should define the SEL landscape."
-      },
-      {
-        "title": "Wemby\u2019s Post-Game Interview Is Made-To-Order For An SEL Lesson",
-        "url": "https://larryferlazzo.edublogs.org/2026/06/06/wembys-post-game-interview-is-made-to-order-for-an-sel-lesson/",
-        "summary": "I&#8217;ve been a New York Knicks fan for nearly sixty-years (I grew-up on Staten Island), but how can you not like Victor Wembanyama? After being responsible for throwing the ball away for a turnover, and then missing the final shot, he modeled what taking responsibility is like: &#160; Which is why I&#8217;m add this info [&#8230;]",
-        "published": "2026-06-06T14:20:52+00:00",
-        "source_theme": "practitioner_stories",
-        "source_feed": "Larry Ferlazzo's Websites of the Day\u2026",
-        "primary_theme": "human_flourishing",
-        "reason": "Uses real-world example to teach responsibility for SEL.",
-        "relevance": 7,
-        "importance": 6,
-        "claude_summary": "Wembanyama publicly modeled accountability after costing the Spurs a game\u2014owning both the turnover and the missed final shot without deflection. Ferlazzo flags the post-game interview as a ready-made SEL teaching moment on taking responsibility."
-      }
-    ]
-  },
-  {
     "date": "2026-06-13T11:43:30.710325+00:00",
     "articles": [
       {
@@ -224,6 +167,24 @@
         "relevance": 6,
         "importance": 6,
         "claude_summary": "Full read needed \u2014 Based on the snippet, the piece uses Juneteenth as a frame to trace Black Americans' pursuit of literacy and formal education from slavery through emancipation, likely drawing on Douglass's firsthand account of how reading was suppressed as a tool of control. The core argument appears to be that the denial of education was foundational to slavery, making its pursuit an act of liberation \u2014 a history worth keeping visible on Juneteenth."
+      }
+    ]
+  },
+  {
+    "date": "2026-06-21T11:57:54.623913+00:00",
+    "articles": [
+      {
+        "title": "State Education Officials Recommend Repealing, Replacing Compulsory School Attendance Rules",
+        "url": "https://www.the74million.org/article/state-education-officials-recommend-repealing-replacing-compulsory-school-attendance-rules/",
+        "summary": "To improve school attendance in a state with one of the nation\u2019s highest absenteeism rates, Oregon education officials on Tuesday presented lawmakers with a plan to repeal existing attendance laws. The high-level presentation and 20-page report presented to the Senate Interim Education Committee described a strategy to replace existing attendance laws \u201crooted in compliance\u201d with [&#8230;]",
+        "published": "2026-06-20T16:30:00+00:00",
+        "source_theme": "ai_education",
+        "source_feed": "The 74",
+        "primary_theme": "futures_philosophy",
+        "reason": "Policy change to address absenteeism, structural redesign of education.",
+        "relevance": 7,
+        "importance": 7,
+        "claude_summary": "Oregon education officials recommended scrapping the state's compulsory attendance laws \u2014 among the least effective in the country \u2014 and replacing compliance-based rules with a framework centered on student engagement and support. The proposal, presented to the Senate Interim Education Committee, responds to Oregon's position as one of the highest-absenteeism states in the nation."
       }
     ]
   }
