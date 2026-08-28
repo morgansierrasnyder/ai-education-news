@@ -1,164 +1,4 @@
 {
-  "https://edsurge.com/news/we-talk-about-whole-children-what-about-whole-educators": {
-    "date": "2026-07-14T12:20:02.550293+00:00",
-    "title": "We Talk About Whole Children. What About Whole Educators?",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/homework-artificial-intelligence-cheating/": {
-    "date": "2026-07-14T12:20:02.550306+00:00",
-    "title": "The End of Homework? Teachers Grapple With Cheating in the Age of AI",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/maine-14-other-states-sue-trump-administration-to-block-school-mental-health-funding-cuts/": {
-    "date": "2026-07-14T12:20:02.550310+00:00",
-    "title": "Maine, 14 Other States Sue Trump Administration to Block School Mental Health Funding Cuts",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/states-try-new-measures-to-get-chronically-absent-students-back-to-class/": {
-    "date": "2026-07-14T12:20:02.550314+00:00",
-    "title": "States Try New Measures To Get Chronically Absent Students Back to Class",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/small-changes-big-relief-how-states-can-support-school-districts/": {
-    "date": "2026-07-14T12:20:02.550317+00:00",
-    "title": "Opinion: Small Changes, Big Relief: How States Can Support School Districts",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/07/14/ai-proof-lawyers-some-law-schools-restrict": {
-    "date": "2026-07-14T12:20:02.550319+00:00",
-    "title": "To AI-Proof Lawyers, Some Law Schools Restrict Technology",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/government/science-research-policy/2026/07/14/legal-threats-loom-over-omb-grant-control-rule": {
-    "date": "2026-07-14T12:20:02.550321+00:00",
-    "title": "Universities Warn Against Rule on Political Control of Grants",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/institutions/2026/07/14/democrats-confidence-higher-ed-hits-record-low": {
-    "date": "2026-07-14T12:20:02.550323+00:00",
-    "title": "Democrats\u2019 Confidence in Higher Ed Hits Record Low",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/07/14/nsf-wont-fund-research-involving-chinese-scientists": {
-    "date": "2026-07-14T12:20:02.550326+00:00",
-    "title": "Under New Policy, NSF Won\u2019t Fund Research Involving Chinese Scientists",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/student-success/life-after-college/2026/07/14/career-literacy-strengthens-student-success": {
-    "date": "2026-07-14T12:20:02.550328+00:00",
-    "title": "Career Literacy Strengthens Student Success",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/07/14/yale-confirms-talks-doj-over-admissions": {
-    "date": "2026-07-14T12:20:02.550330+00:00",
-    "title": "Yale Confirms Negotiations With DOJ Over Admissions",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/governance/executive-leadership/2026/07/14/western-governors-u-president-state-online-ed": {
-    "date": "2026-07-14T12:20:02.550332+00:00",
-    "title": "Western Governors President on the State of Online Ed",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/07/14/ua-alleges-prof-used-research-dollars-wedding": {
-    "date": "2026-07-14T12:20:02.550334+00:00",
-    "title": "UA Countersues Professor, Alleging He Spent Research Dollars on Wedding",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/call-action/2026/07/14/what-comes-after-cmo-leadership-pathway-question": {
-    "date": "2026-07-14T12:20:02.550337+00:00",
-    "title": "What Comes After the CMO?",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/echoes-quad/2026/07/14/how-stop-woke-act-ruling-strengthened-academic-freedom": {
-    "date": "2026-07-14T12:20:02.550339+00:00",
-    "title": "How the Stop WOKE Act Ruling Strengthened Academic Freedom",
-    "skipped": true
-  },
-  "https://www.gettingsmart.com/2026/07/14/steward-stories-how-heart-of-oregon-corps-turns-service-into-careers/": {
-    "date": "2026-07-14T12:20:02.550341+00:00",
-    "title": "Steward Stories: How Heart of Oregon Corps Turns Service into Careers",
-    "skipped": true
-  },
-  "https://www.educationnext.org/do-school-closures-save-money-study-california-districts-balancing-budget-enrollment-decline/": {
-    "date": "2026-07-14T12:20:02.550343+00:00",
-    "title": "Do School Closures Save Money?",
-    "skipped": true
-  },
-  "https://nautil.us/this-prehistoric-giant-salamander-grew-to-almost-4-feet-long-1282663/": {
-    "date": "2026-07-14T12:20:02.550345+00:00",
-    "title": "This Prehistoric Giant Salamander Grew to Almost 4 Feet Long",
-    "skipped": true
-  },
-  "https://nautil.us/how-mariner-4-rewrote-what-we-know-about-mars-1282653/": {
-    "date": "2026-07-14T12:20:02.550348+00:00",
-    "title": "How Mariner 4 Rewrote What We Know About Mars",
-    "skipped": true
-  },
-  "https://nautil.us/the-fight-against-colony-collapse-disorder-started-19-years-ago-today-1282660/": {
-    "date": "2026-07-14T12:20:02.550350+00:00",
-    "title": "The Fight Against Colony Collapse Disorder Started 19 Years Ago Today",
-    "skipped": true
-  },
-  "https://nautil.us/are-women-really-better-at-multitasking-than-men-1282649/": {
-    "date": "2026-07-14T12:20:02.550352+00:00",
-    "title": "Are Women Really Better at Multitasking Than Men?",
-    "skipped": true
-  },
-  "https://nautil.us/confessions-of-a-reluctant-protein-maxxer-1282639/": {
-    "date": "2026-07-14T12:20:02.550355+00:00",
-    "title": "Confessions of a Reluctant Protein-Maxxer",
-    "skipped": true
-  },
-  "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem": {
-    "date": "2026-07-14T12:20:02.550357+00:00",
-    "title": "The looting of science fiction",
-    "skipped": true
-  },
-  "https://www.quantamagazine.org/why-am-i-left-handed-20260713/": {
-    "date": "2026-07-14T12:20:02.550359+00:00",
-    "title": "Why Am I Left-Handed?",
-    "skipped": true
-  },
-  "https://www.aspeninstitute.org/blog-posts/building-trust-together/": {
-    "date": "2026-07-14T12:20:02.550362+00:00",
-    "title": "Building Trust Together",
-    "skipped": true
-  },
-  "https://www.aspeninstitute.org/blog-posts/breaking-the-ice-when-neighbors-build-walls/": {
-    "date": "2026-07-14T12:20:02.550364+00:00",
-    "title": "Breaking the ice when neighbors build walls",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/07/13/tsunetomo-feedback/": {
-    "date": "2026-07-14T12:20:02.550366+00:00",
-    "title": "How to Help Someone Change: The Samurai Guide to Giving Feedback",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/07/13/how-to-grow-old-bertrand-russell/": {
-    "date": "2026-07-14T12:20:02.550368+00:00",
-    "title": "How to Grow Old: Bertrand Russell on What Makes a Fulfilling Life",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/07/13/lying-in-politics-hannah-arendt/": {
-    "date": "2026-07-14T12:20:02.550371+00:00",
-    "title": "How to Spot and How to Stop a Liar: Hannah Arendt on Deception, Self-Deception, and the Psychology of Defactualization",
-    "skipped": true
-  },
-  "https://larryferlazzo.edublogs.org/2026/07/14/we-all-know-fifa-is-completely-corrupt-but-it-is-good-to-hear-that-the-world-cup-final-halftime-show-will-benefit-education-literacy/": {
-    "date": "2026-07-14T12:20:02.550373+00:00",
-    "title": "We All Know FIFA Is Completely Corrupt, But It Is Good To Hear That The World Cup Final Halftime Show Will Benefit Education & Literacy",
-    "skipped": true
-  },
-  "https://larryferlazzo.edublogs.org/2026/07/14/its-bastille-day-here-are-teaching-learning-resources-7/": {
-    "date": "2026-07-14T12:20:02.550375+00:00",
-    "title": "It\u2019s Bastille Day!  Here Are Teaching & Learning Resources",
-    "skipped": true
-  },
-  "https://larryferlazzo.edublogs.org/2026/07/14/i-like-the-instructional-strategy-behind-this-video-walking-through-writing-a-compelling-essay/": {
-    "date": "2026-07-14T12:20:02.550377+00:00",
-    "title": "I Like The Instructional Strategy Behind This Video: \u201cWalking Through Writing a Compelling Essay\u201d",
-    "skipped": true
-  },
   "https://edsurge.com/news/how-my-school-used-common-sense-and-collaboration-to-confront-ai": {
     "date": "2026-07-15T12:20:45.852267+00:00",
     "title": "How My School Used Common Sense and Collaboration to Confront AI",
@@ -5617,6 +5457,156 @@
   "https://www.weareteachers.com/beddys-teacher-discount/?utm_source=rss&utm_medium=rss&utm_campaign=beddys-teacher-discount": {
     "date": "2026-08-27T20:58:23.730176+00:00",
     "title": "Deal of the Day: Enjoy up to 25% off Beddy\u2019s",
+    "skipped": true
+  },
+  "https://edsurge.com/news/ai-can-help-one-of-k-12s-biggest-challenges-middle-school-reading": {
+    "date": "2026-08-28T21:21:26.555074+00:00",
+    "title": "AI Can Help One of K-12\u2019s Biggest Challenges: Middle School Reading",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/louisiana-teacher-asks-scotus-to-stop-ten-commandments-displays-in-classrooms/": {
+    "date": "2026-08-28T21:21:26.555085+00:00",
+    "title": "Louisiana Teacher Asks SCOTUS to Stop Ten Commandments Displays in Classrooms",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/ken-burns-is-making-history-come-alive-for-students/": {
+    "date": "2026-08-28T21:21:26.555089+00:00",
+    "title": "Ken Burns Is Making History Come Alive for Students",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/california-bill-to-catch-math-struggles-in-youngest-kids-heads-to-governors-desk/": {
+    "date": "2026-08-28T21:21:26.555091+00:00",
+    "title": "California Bill To Catch Math Struggles in Youngest Kids Heads to Governor\u2019s Desk",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/the-best-way-to-help-kids-settle-in-at-college-back-away-and-let-them-grow-up/": {
+    "date": "2026-08-28T21:21:26.555094+00:00",
+    "title": "Opinion: The Best Way to Help Kids Settle in at College? Back Away and Let Them Grow Up",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/new-york-city-parents-think-their-kids-are-on-track-in-reading-but-are-they/": {
+    "date": "2026-08-28T21:21:26.555096+00:00",
+    "title": "New York City Parents Think Their Kids Are on Track in Reading. But Are They?",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/quick-takes/2026/08/28/doj-finds-racial-discrimination-george-washington-medical": {
+    "date": "2026-08-28T21:21:26.555098+00:00",
+    "title": "DOJ Finds Racial Discrimination at George Washington U Medical School",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/tech-innovation/2026/08/28/alumni-are-forever-alumni-email-addresses-arent": {
+    "date": "2026-08-28T21:21:26.555100+00:00",
+    "title": "Alumni Are Forever. Alumni Email Addresses Are Not.",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/quick-takes/2026/08/28/tennessee-promise-boosts-college-enrollment-and-attainment": {
+    "date": "2026-08-28T21:21:26.555102+00:00",
+    "title": "Tennessee Promise Boosts College Enrollment and Attainment, Data Shows",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/government/state-policy/2026/08/28/calif-bills-could-expand-community-college-bachelor-degrees": {
+    "date": "2026-08-28T21:21:26.555104+00:00",
+    "title": "2 Calif. Bills Could Let More Community Colleges Grant 4-Year Degrees",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/student-success/college-experience/2026/08/28/turning-high-school-credentials-college-credit": {
+    "date": "2026-08-28T21:21:26.555107+00:00",
+    "title": "Turning High School Credentials Into College Credit",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/28/mit-ai-report-calls-alternative-grading": {
+    "date": "2026-08-28T21:21:26.555109+00:00",
+    "title": "MIT AI Report Calls for Alternative Grading, More Social Learning",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/quick-takes/2026/08/28/arday-accuser-nathan-cofnas-says-he-will-not-be-fired": {
+    "date": "2026-08-28T21:21:26.555111+00:00",
+    "title": "Arday Accuser Nathan Cofnas Says He Will Not Be Fired",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/quick-takes/2026/08/28/state-senator-chalks-sidewalk-ohio-state-protesting-ban": {
+    "date": "2026-08-28T21:21:26.555113+00:00",
+    "title": "State Senator Chalks Sidewalk at Ohio State, Protesting Ban",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/quick-takes/2026/08/28/saint-augustines-wins-stay-former-trustees-legal-costs": {
+    "date": "2026-08-28T21:21:26.555115+00:00",
+    "title": "SAU Wins Stay on Former Trustees\u2019 Legal Costs",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/opinion/columns/confessions-community-college-dean/2026/08/28/readers-respond-ai-literacy": {
+    "date": "2026-08-28T21:21:26.555118+00:00",
+    "title": "Readers Respond on AI Literacy",
+    "skipped": true
+  },
+  "https://nautil.us/covid-brain-fog-may-not-be-irreversible-1284604/": {
+    "date": "2026-08-28T21:21:26.555120+00:00",
+    "title": "COVID Brain Fog May Not Be Irreversible",
+    "skipped": true
+  },
+  "https://nautil.us/listen-in-on-the-sounds-of-a-jurassic-period-forest-1284593/": {
+    "date": "2026-08-28T21:21:26.555122+00:00",
+    "title": "Listen in on the Sounds of a Jurassic Period Forest",
+    "skipped": true
+  },
+  "https://nautil.us/the-gibbons-gaze-a-mirror-into-the-human-mind-1284595/": {
+    "date": "2026-08-28T21:21:26.555125+00:00",
+    "title": "The Gibbon\u2019s Gaze: A Mirror Into the Human Mind",
+    "skipped": true
+  },
+  "https://nautil.us/how-to-think-about-thinking-1284587/": {
+    "date": "2026-08-28T21:21:26.555126+00:00",
+    "title": "How to Think About Thinking",
+    "skipped": true
+  },
+  "https://nautil.us/cyborg-roaches-could-be-the-future-of-triage-medicine-1284583/": {
+    "date": "2026-08-28T21:21:26.555128+00:00",
+    "title": "Cyborg Roaches Could Be the Future of Triage Medicine",
+    "skipped": true
+  },
+  "https://nautil.us/the-first-moon-spaceport-is-coming-but-first-well-need-moon-traffic-control-1284577/": {
+    "date": "2026-08-28T21:21:26.555130+00:00",
+    "title": "The First Moon Spaceport Is Coming. But First We\u2019ll Need Moon Traffic Control",
+    "skipped": true
+  },
+  "https://nautil.us/this-is-what-happens-when-1000-people-bury-their-underwear-for-science-1284574/": {
+    "date": "2026-08-28T21:21:26.555133+00:00",
+    "title": "This Is What Happens When 1,000 People Bury Their Underwear for Science",
+    "skipped": true
+  },
+  "https://nautil.us/fact-checking-the-biohackers-who-claim-metformin-is-an-anti-aging-wonder-drug-1284568/": {
+    "date": "2026-08-28T21:21:26.555135+00:00",
+    "title": "Fact-Checking the Biohackers Who Claim Metformin is an Anti-Aging Wonder Drug",
+    "skipped": true
+  },
+  "https://www.quantamagazine.org/does-computer-science-need-computers-20260828/": {
+    "date": "2026-08-28T21:21:26.555137+00:00",
+    "title": "Does Computer Science Need Computers?",
+    "skipped": true
+  },
+  "https://www.noemamag.com/subjective-perspective-makes-objective-reality-everywhere-whole": {
+    "date": "2026-08-28T21:21:26.555140+00:00",
+    "title": "Subjective Perspective Makes Objective Reality \u2018Everywhere Whole\u2019",
+    "skipped": true
+  },
+  "https://www.aspeninstitute.org/blog-posts/national-good-neighbor-day-gives-folks-a-chance-to-start-building-connection/": {
+    "date": "2026-08-28T21:21:26.555142+00:00",
+    "title": "National Good Neighbor Day gives folks a chance to start building connection",
+    "skipped": true
+  },
+  "https://www.themarginalian.org/2026/08/28/trees/": {
+    "date": "2026-08-28T21:21:26.555144+00:00",
+    "title": "How to Be a Tree: Notes on the Resilience of Letting Go",
+    "skipped": true
+  },
+  "https://www.themarginalian.org/2026/08/28/hannah-emerson-center-of-the-universe/": {
+    "date": "2026-08-28T21:21:26.555146+00:00",
+    "title": "How to Be Reborn Each Day",
+    "skipped": true
+  },
+  "https://www.themarginalian.org/2026/08/28/bertrand-russell-nobel-prize-acceptance-speech/": {
+    "date": "2026-08-28T21:21:26.555148+00:00",
+    "title": "The Four Desires Driving All Human Behavior: Bertrand Russell\u2019s Magnificent Nobel Prize Acceptance Speech",
     "skipped": true
   }
 }
