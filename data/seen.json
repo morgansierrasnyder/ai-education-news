@@ -1,499 +1,4 @@
 {
-  "https://hechingerreport.org/too-hot-for-summer-school/": {
-    "date": "2026-07-29T13:05:43.615670+00:00",
-    "title": "Too hot for summer school?",
-    "skipped": true
-  },
-  "https://hechingerreport.org/the-island-without-childcare-for-babies/": {
-    "date": "2026-07-29T13:05:43.615684+00:00",
-    "title": "The island without childcare for babies",
-    "skipped": true
-  },
-  "https://edsurge.com/news/translating-dignity-not-just-language": {
-    "date": "2026-07-29T13:05:43.615687+00:00",
-    "title": "Translating Dignity, Not Just Language",
-    "skipped": true
-  },
-  "https://edsurge.com/news/what-should-students-still-have-to-do-for-themselves": {
-    "date": "2026-07-29T13:05:43.615690+00:00",
-    "title": "What Should Students Still Have to Do for Themselves?",
-    "skipped": true
-  },
-  "https://www.the74million.org/zero2eight/trump-accounts-visual-explainer-what-families-need-to-know/": {
-    "date": "2026-07-29T13:05:43.615692+00:00",
-    "title": "Trump Accounts Have Arrived. Here\u2019s What Families Need to Know",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/gates-foundation-bets-on-credentials-ai-to-reach-students-before-2045-sunset/": {
-    "date": "2026-07-29T13:05:43.615694+00:00",
-    "title": "Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/colorado-officials-knew-public-christian-school-was-religious-before-it-opened-they-didnt-stop-it/": {
-    "date": "2026-07-29T13:05:43.615696+00:00",
-    "title": "Colorado Officials Knew \u2018Public Christian School\u2019 Was Religious Before It Opened. They Didn\u2019t Stop It.",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/with-an-eye-to-improvement-new-hampshire-educators-propose-new-way-to-assess-schools/": {
-    "date": "2026-07-29T13:05:43.615698+00:00",
-    "title": "With an Eye to Improvement, New Hampshire Educators Propose New Way to Assess Schools",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/new-report-ties-chronic-absenteeism-to-sluggish-academic-outcomes/": {
-    "date": "2026-07-29T13:05:43.615701+00:00",
-    "title": "New Report Ties Chronic Absenteeism to Sluggish Academic Outcomes",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/faculty/research/2026/07/29/oregon-institution-says-no-funds-end-animal-testing": {
-    "date": "2026-07-29T13:05:43.615703+00:00",
-    "title": "Oregon Institution Lacks Funds to Move Away From Animal Testing",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/government/student-aid-policy/2026/07/29/financial-aid-experts-seek-clarity-loan-proration": {
-    "date": "2026-07-29T13:05:43.615704+00:00",
-    "title": "New Loan Limit Proration Rule Raises Concern Among Financial Aid Experts",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/admissions/graduate/2026/07/29/what-we-know-about-doj-investigations-medical-schools": {
-    "date": "2026-07-29T13:05:43.615706+00:00",
-    "title": "What We Know About the Government\u2019s Investigations Into Medical Schools",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/07/29/judge-opposes-state-tuition-illinois-noncitizens": {
-    "date": "2026-07-29T13:05:43.615708+00:00",
-    "title": "Federal Judge Rules Against In-State Tuition for Illinois Undocumented Students",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/student-success/life-after-college/2026/07/29/how-colleges-are-redesigning-path-degree": {
-    "date": "2026-07-29T13:05:43.615710+00:00",
-    "title": "How Colleges Are Redesigning the Path to a Degree",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/government/politics-elections/2026/07/29/federal-lobbying-slows-second-quarter": {
-    "date": "2026-07-29T13:05:43.615712+00:00",
-    "title": "Federal Lobbying Slows in Second Quarter",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/07/29/convicted-murderer-idaho-students-backtracks-plea": {
-    "date": "2026-07-29T13:05:43.615714+00:00",
-    "title": "Convicted Murderer of Idaho Students Backtracks on Guilty Plea",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/07/29/group-says-canceled-ahrq-grants-top-131m-across-28-states": {
-    "date": "2026-07-29T13:05:43.615716+00:00",
-    "title": "Group Says AHRQ Grant Cancellations Top $131M Across 28 States",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/07/29/sonoma-state-brings-back-athletics-after-year": {
-    "date": "2026-07-29T13:05:43.615718+00:00",
-    "title": "A Year After Cutting Athletics, Sonoma State Brings Back 10 Teams",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/call-action/2026/07/29/how-ai-shaping-higher-ed-communications": {
-    "date": "2026-07-29T13:05:43.615720+00:00",
-    "title": "How AI Is Shaping Higher Ed Communications",
-    "skipped": true
-  },
-  "https://nautil.us/this-time-lapse-video-from-the-psyche-spacecraft-shows-mars-as-youve-never-seen-it-before-1283140/": {
-    "date": "2026-07-29T13:05:43.615722+00:00",
-    "title": "This Time-Lapse Video from the Psyche Spacecraft Shows Mars As You\u2019ve Never Seen It Before",
-    "skipped": true
-  },
-  "https://nautil.us/anthony-faucis-diary-reveals-a-human-at-the-helm-1283145/": {
-    "date": "2026-07-29T13:05:43.615723+00:00",
-    "title": "Anthony Fauci\u2019s Diary Reveals a Human at the Helm",
-    "skipped": true
-  },
-  "https://nautil.us/pre-roman-necropolis-reveals-secrets-of-iron-age-mediterranean-diets-1283129/": {
-    "date": "2026-07-29T13:05:43.615725+00:00",
-    "title": "Pre-Roman Necropolis Reveals Secrets of Iron Age Mediterranean Diets",
-    "skipped": true
-  },
-  "https://nautil.us/omniscient-tree-networks-immortal-amoebas-and-hope-1283103/": {
-    "date": "2026-07-29T13:05:43.615727+00:00",
-    "title": "Omniscient Tree Networks and Immortal Amoebas: 9 Books We\u2019re Excited to Read This August",
-    "skipped": true
-  },
-  "https://nautil.us/the-humble-amoeba-is-smarter-than-you-think-1283100/": {
-    "date": "2026-07-29T13:05:43.615729+00:00",
-    "title": "The Humble Amoeba Is Smarter Than You Think",
-    "skipped": true
-  },
-  "https://nautil.us/why-we-stopped-burying-our-dead-at-home-1283097/": {
-    "date": "2026-07-29T13:05:43.615731+00:00",
-    "title": "Why We Stopped Burying Our Dead at Home",
-    "skipped": true
-  },
-  "https://nautil.us/an-abandoned-spacex-rocket-is-about-to-crash-into-the-moon-the-real-problem-comes-next-1283069/": {
-    "date": "2026-07-29T13:05:43.615732+00:00",
-    "title": "An Abandoned SpaceX Rocket Is About to Crash Into the Moon. The Real Problem Comes Next",
-    "skipped": true
-  },
-  "https://aeon.co/videos/three-handy-tools-for-separating-pseudoscience-from-the-real-deal": {
-    "date": "2026-07-29T13:05:43.615734+00:00",
-    "title": "How to spot pseudoscience",
-    "skipped": true
-  },
-  "https://www.aspeninstitute.org/blog-posts/house-financial-services-committee-report-scam-prevention/": {
-    "date": "2026-07-29T13:05:43.615736+00:00",
-    "title": "House Financial Services Committee Report Marks Major Progress\u2014and Call to Action\u2014on Scam Prevention",
-    "skipped": true
-  },
-  "https://www.aspeninstitute.org/publications/from-crisis-to-continuity-optimizing-cdfi-capital-and-partnerships-for-natural-disaster-response/": {
-    "date": "2026-07-29T13:05:43.615738+00:00",
-    "title": "From Crisis to Continuity: Optimizing CDFI Capital and Partnerships for Natural Disaster Response",
-    "skipped": true
-  },
-  "https://www.aspeninstitute.org/blog-posts/democracy-diplomacy-and-the-new-world-order/": {
-    "date": "2026-07-29T13:05:43.615740+00:00",
-    "title": "Democracy, Diplomacy, and the New World Order",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/comfrt-teacher-discount/?utm_source=rss&utm_medium=rss&utm_campaign=comfrt-teacher-discount": {
-    "date": "2026-07-29T13:05:43.615742+00:00",
-    "title": "Deal of the Day: Enjoy 15% off Comfrt",
-    "skipped": true
-  },
-  "https://larryferlazzo.edublogs.org/2026/07/29/teacher-action-research-in-action/": {
-    "date": "2026-07-29T13:05:43.615744+00:00",
-    "title": "\u201cTeacher Action Research \u2026 in Action\u201d",
-    "skipped": true
-  },
-  "https://larryferlazzo.edublogs.org/2026/07/29/a-look-back-implicit-bias-training-doesnt-seem-to-work-so-what-should-teachers-others-do-instead-4/": {
-    "date": "2026-07-29T13:05:43.615746+00:00",
-    "title": "A Look Back: Implicit Bias Training Doesn\u2019t Seem To Work \u2013 So What Should Teachers & Others Do, Instead?",
-    "skipped": true
-  },
-  "https://larryferlazzo.edublogs.org/2026/07/29/all-student-handouts-from-our-latest-book-are-now-available-for-free-without-any-required-registration/": {
-    "date": "2026-07-29T13:05:43.615747+00:00",
-    "title": "All Student Handouts From Our Latest Book Are Now Available For Free Without Any Required Registration",
-    "skipped": true
-  },
-  "https://hechingerreport.org/as-fewer-young-people-choose-college-this-district-wants-to-ensure-they-have-career-options/": {
-    "date": "2026-07-30T12:49:45.282962+00:00",
-    "title": "As fewer young people choose college, this district wants to ensure they have career options",
-    "skipped": true
-  },
-  "https://edsurge.com/news/reality-bites-students-say-they-face-stark-challenges-after-high-school": {
-    "date": "2026-07-30T12:49:45.282974+00:00",
-    "title": "Reality Bites: Students Say They Face Stark Challenges After High School",
-    "skipped": true
-  },
-  "https://www.the74million.org/zero2eight/new-mexico-features-in-national-discussion-on-childcare-challenges/": {
-    "date": "2026-07-30T12:49:45.282978+00:00",
-    "title": "New Mexico Features in National Discussion on Childcare Challenges",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/how-math-became-relevant-again-in-a-wisconsin-classroom/": {
-    "date": "2026-07-30T12:49:45.282981+00:00",
-    "title": "Opinion: How Math Became Relevant Again in a Wisconsin Classroom",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/in-diary-fauci-bragged-of-role-in-school-closures-at-hearing-he-took-the-5th/": {
-    "date": "2026-07-30T12:49:45.282984+00:00",
-    "title": "In Diary, Fauci Bragged of Role in School Closures. At Hearing, He Took the 5th",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/youre-not-imagining-it-your-kids-school-supplies-cost-more-this-year/": {
-    "date": "2026-07-30T12:49:45.282986+00:00",
-    "title": "You\u2019re Not Imagining It: Your Kid\u2019s School Supplies Cost More This Year",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/new-staffing-models-put-strong-teachers-out-front/": {
-    "date": "2026-07-30T12:49:45.282988+00:00",
-    "title": "New Staffing Models Put Strong Teachers Out Front",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/threat-of-deportation-program-cuts-disrupt-student-learning/": {
-    "date": "2026-07-30T12:49:45.282990+00:00",
-    "title": "Opinion: Threat of Deportation, Program Cuts Disrupt Student Learning",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/students/careers/2026/07/30/catastrophic-tech-issues-postpone-washington-bar-exam": {
-    "date": "2026-07-30T12:49:45.282993+00:00",
-    "title": "\u2018Catastrophic\u2019 Tech Issues Postpone Wash. Bar Exam",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/government/politics-elections/2026/07/30/aaup-embraces-political-role-candidate-endorsements": {
-    "date": "2026-07-30T12:49:45.282995+00:00",
-    "title": "National AAUP Starts Endorsing Political Candidates",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/faculty/academic-freedom/2026/07/30/fired-over-speech-professors-take-their-employers-court": {
-    "date": "2026-07-30T12:49:45.282997+00:00",
-    "title": "Fired Over Speech, Professors Take Their Employers to Court\u2014and Win",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/07/30/gates-foundation-new-goal-focuses-credentials-value": {
-    "date": "2026-07-30T12:49:45.282999+00:00",
-    "title": "Gates Foundation\u2019s New Goal: 10M \u2018Credentials of Value\u2019 by 2045",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/beyond-transfer/2026/07/30/recognition-lever-improving-transfer": {
-    "date": "2026-07-30T12:49:45.283001+00:00",
-    "title": "Beyond Articulation Agreements",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/07/30/west-point-declines-fight-block-faculty-gag-order": {
-    "date": "2026-07-30T12:49:45.283003+00:00",
-    "title": "West Point Won\u2019t Fight Court Ruling on Faculty Gag Order",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/07/30/untenable-conditions-shrinking-tenure-law-deans": {
-    "date": "2026-07-30T12:49:45.283005+00:00",
-    "title": "\u2018Untenable\u2019 Conditions Shrinking Tenure of Law Deans, Survey Finds",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/editors-note/2026/07/30/lawsuit-tests-what-universities-are-owed-ai-research": {
-    "date": "2026-07-30T12:49:45.283007+00:00",
-    "title": "A First Lawsuit Tests What Universities Are Owed for AI Research",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/views/2026/07/30/law-schools-are-asking-wrong-question-about-ai-opinion": {
-    "date": "2026-07-30T12:49:45.283009+00:00",
-    "title": "Law Schools Are Asking the Wrong Question About AI",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/tough-love/2026/07/30/let-big-time-college-football-and-basketball-collapse-column": {
-    "date": "2026-07-30T12:49:45.283012+00:00",
-    "title": "Let Big-Time College Football and Basketball Collapse",
-    "skipped": true
-  },
-  "https://www.gettingsmart.com/2026/07/30/how-the-past-foundation-turned-real-world-problems-into-a-learning-ecosystem/": {
-    "date": "2026-07-30T12:49:45.283014+00:00",
-    "title": "How the PAST Foundation Turned Real-World Problems Into a Learning Ecosystem",
-    "skipped": true
-  },
-  "https://nautil.us/for-the-first-time-a-look-at-the-arctic-bobtail-squid-in-its-natural-habitat-1283199/": {
-    "date": "2026-07-30T12:49:45.283017+00:00",
-    "title": "For the First Time, a Look at the Arctic Bobtail Squid in Its Natural Habitat",
-    "skipped": true
-  },
-  "https://nautil.us/mothers-and-fathers-experience-dramatically-different-health-consequences-1283211/": {
-    "date": "2026-07-30T12:49:45.283019+00:00",
-    "title": "Mothers and Fathers Experience Dramatically Different Health Consequences",
-    "skipped": true
-  },
-  "https://nautil.us/how-celebrities-became-americas-unregulated-drug-pushers-1283181/": {
-    "date": "2026-07-30T12:49:45.283021+00:00",
-    "title": "How Celebrities Became America\u2019s Unregulated Drug Pushers",
-    "skipped": true
-  },
-  "https://nautil.us/does-having-a-pet-really-improve-our-health-1283176/": {
-    "date": "2026-07-30T12:49:45.283023+00:00",
-    "title": "Does Having a Pet Really Improve Our Health?",
-    "skipped": true
-  },
-  "https://nautil.us/even-owning-a-cell-phone-is-bad-for-kids-test-scores-1283172/": {
-    "date": "2026-07-30T12:49:45.283025+00:00",
-    "title": "Even Owning a Cell Phone Is Bad for Kids\u2019 Test Scores",
-    "skipped": true
-  },
-  "https://nautil.us/why-we-think-we-know-more-than-we-do-1283150/": {
-    "date": "2026-07-30T12:49:45.283027+00:00",
-    "title": "Why We Think We Know More Than We Do",
-    "skipped": true
-  },
-  "https://nautil.us/dinosaurs-may-have-been-literally-charbroiled-after-the-asteroid-impact-1283128/": {
-    "date": "2026-07-30T12:49:45.283030+00:00",
-    "title": "Dinosaurs May Have Been Literally Charbroiled After the Asteroid Impact",
-    "skipped": true
-  },
-  "https://aeon.co/videos/the-workforce-of-elderly-women-recycling-what-vietnam-throws-away": {
-    "date": "2026-07-30T12:49:45.283032+00:00",
-    "title": "Mud below, sun above",
-    "skipped": true
-  },
-  "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around": {
-    "date": "2026-07-30T12:49:45.283034+00:00",
-    "title": "How art invented humanity",
-    "skipped": true
-  },
-  "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/": {
-    "date": "2026-07-30T12:49:45.283036+00:00",
-    "title": "Physicists Solve a Big Quantum Mystery. Now, Old Results Don\u2019t Add Up.",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/07/29/kahlil-gibran-prophet-talking/": {
-    "date": "2026-07-30T12:49:45.283039+00:00",
-    "title": "Kahlil Gibran on Silence, Solitude, and the Courage to Know Yourself",
-    "skipped": true
-  },
-  "https://fs.blog/knowledge-project-podcast/brad-jacobs-2/": {
-    "date": "2026-07-30T12:49:45.283041+00:00",
-    "title": "The Psychology Behind Building Billion-Dollar Companies | Brad Jacobs",
-    "skipped": true
-  },
-  "https://www.bera.ac.uk/news/bera-announces-the-2026-bera-equality-in-education-award-recipient": {
-    "date": "2026-07-30T12:49:45.283043+00:00",
-    "title": "BERA announces the 2026 BERA Equality in Education award recipient",
-    "skipped": true
-  },
-  "https://larryferlazzo.edublogs.org/2026/07/30/my-best-posts-that-appeared-in-july-5/": {
-    "date": "2026-07-30T12:49:45.283049+00:00",
-    "title": "My Best Posts That Appeared In July",
-    "skipped": true
-  },
-  "https://larryferlazzo.edublogs.org/2026/07/30/spacesim-looks-like-a-pretty-engaging-tool-for-learning-teaching-about-the-solar-system/": {
-    "date": "2026-07-30T12:49:45.283051+00:00",
-    "title": "\u201cSpacesim\u201d Looks Like A Pretty Engaging Tool For Learning & Teaching About The Solar System",
-    "skipped": true
-  },
-  "https://larryferlazzo.edublogs.org/2026/07/30/august-9th-is-international-day-of-the-worlds-indigenous-peoples-here-are-teaching-learning-resources-6/": {
-    "date": "2026-07-30T12:49:45.283053+00:00",
-    "title": "August 9th Is \u201cInternational Day of the World\u2019s Indigenous Peoples\u201d \u2013 Here Are Teaching & Learning Resources",
-    "skipped": true
-  },
-  "https://edsurge.com/news/why-would-anyone-opt-for-virtual-kindergarten": {
-    "date": "2026-07-31T13:02:37.973296+00:00",
-    "title": "Why Would Anyone Opt for Virtual Kindergarten?",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/the-second-curriculum-what-1st-gen-college-students-need-to-know-but-dont/": {
-    "date": "2026-07-31T13:02:37.973310+00:00",
-    "title": "Opinion: The \u2018Second Curriculum\u2019 \u2014 What 1st-Gen College Students Need to Know, But Don\u2019t",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/why-claude-for-teachers-might-be-a-student-privacy-trap-for-educators/": {
-    "date": "2026-07-31T13:02:37.973314+00:00",
-    "title": "Opinion: Why Claude for Teachers Might Be a Student Privacy Trap for Educators",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/senate-panel-passes-bill-to-reverse-dismantling-of-education-department/": {
-    "date": "2026-07-31T13:02:37.973317+00:00",
-    "title": "Senate Panel Passes Bill to Reverse Dismantling of Education Department",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/senate-panel-advances-science-of-reading-dyslexia-bills-with-bipartisan-support/": {
-    "date": "2026-07-31T13:02:37.973320+00:00",
-    "title": "Senate Panel Advances Science of Reading, Dyslexia Bills with Bipartisan Support",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/when-teachers-lack-confidence-in-math-their-students-fall-behind-new-study-shows/": {
-    "date": "2026-07-31T13:02:37.973322+00:00",
-    "title": "When Teachers Lack Confidence in Math, Their Students Fall Behind, New Study Shows",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/government/politics-elections/2026/07/31/gop-rift-over-education-departments-future": {
-    "date": "2026-07-31T13:02:37.973324+00:00",
-    "title": "GOP Rift Over Education Department\u2019s Future",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/debatable-ideas/2026/07/31/critics-aaup-and-delusions-neutrality": {
-    "date": "2026-07-31T13:02:37.973327+00:00",
-    "title": "Critics of the AAUP and the Delusions of Neutrality",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/business/physical-campuses/2026/07/31/green-mountain-college-resurrection": {
-    "date": "2026-07-31T13:02:37.973329+00:00",
-    "title": "A Green Mountain College Resurrection?",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/07/31/report-struggling-fla-high-schoolers-take-clt-graduate": {
-    "date": "2026-07-31T13:02:37.973331+00:00",
-    "title": "Report: Struggling Florida High Schoolers Take CLT to Graduate",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/student-success/college-experience/2026/07/31/its-never-too-late-go-back-college": {
-    "date": "2026-07-31T13:02:37.973334+00:00",
-    "title": "It\u2019s Never Too Late to Go Back to College",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/global/us-colleges-world/2026/07/31/us-universities-approved-set-greek-branch-campuses": {
-    "date": "2026-07-31T13:02:37.973336+00:00",
-    "title": "U.S. Universities Among 7 Approved to Set Up Greek Branch Campuses",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/confessions-community-college-dean/2026/07/31/personal-aphorisms": {
-    "date": "2026-07-31T13:02:37.973339+00:00",
-    "title": "Personal Aphorisms",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/07/31/new-college-fla-alumni-board-not-giving-chair-says": {
-    "date": "2026-07-31T13:02:37.973341+00:00",
-    "title": "Dissolved New College of Florida Alumni Board Not Giving In, Chair Says",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/07/31/professor-fired-teaching-political-story-sues-college": {
-    "date": "2026-07-31T13:02:37.973343+00:00",
-    "title": "Florida English Professor Fired for Teaching \u2018Political\u2019 Story Sues College",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/public-scholar/2026/07/31/ways-obsess-over-writing": {
-    "date": "2026-07-31T13:02:37.973345+00:00",
-    "title": "Keep Strunk & White in the Bathroom and Other Ways to Obsess Over Writing Well",
-    "skipped": true
-  },
-  "https://nautil.us/a-hellish-cloud-descended-on-los-angeles-in-1943-1283256/": {
-    "date": "2026-07-31T13:02:37.973347+00:00",
-    "title": "A \u201cHellish Cloud\u201d Descended on Los Angeles in 1943",
-    "skipped": true
-  },
-  "https://nautil.us/microfossils-help-crack-mystery-more-than-100-million-years-in-the-making-1283251/": {
-    "date": "2026-07-31T13:02:37.973350+00:00",
-    "title": "Microfossils Help Crack Mystery More Than 100 Million Years in the Making",
-    "skipped": true
-  },
-  "https://nautil.us/nasa-just-spotted-a-wandering-black-hole-devouring-a-star-1283245/": {
-    "date": "2026-07-31T13:02:37.973352+00:00",
-    "title": "NASA Just Spotted a Wandering Black Hole Devouring a Star",
-    "skipped": true
-  },
-  "https://nautil.us/curiosity-rover-finds-sea-of-polygons-on-martian-surface-1283236/": {
-    "date": "2026-07-31T13:02:37.973354+00:00",
-    "title": "Curiosity Rover Finds \u201cSea of Polygons\u201d on Martian Surface",
-    "skipped": true
-  },
-  "https://nautil.us/the-odyssey-of-the-stone-age-maltese-1283223/": {
-    "date": "2026-07-31T13:02:37.973356+00:00",
-    "title": "The Odyssey of the Stone Age Maltese",
-    "skipped": true
-  },
-  "https://nautil.us/did-ancient-humans-prefer-hunting-female-mammoths-1283215/": {
-    "date": "2026-07-31T13:02:37.973358+00:00",
-    "title": "Did Ancient Humans Prefer Hunting Female Mammoths?",
-    "skipped": true
-  },
-  "https://nautil.us/earth-is-lumpy-as-hell-1283204/": {
-    "date": "2026-07-31T13:02:37.973360+00:00",
-    "title": "Earth Is Lumpy as Hell",
-    "skipped": true
-  },
-  "https://aeon.co/essays/are-we-witnessing-the-end-of-the-technocratic-international": {
-    "date": "2026-07-31T13:02:37.973362+00:00",
-    "title": "Resist the technocrats",
-    "skipped": true
-  },
-  "https://www.noemamag.com/the-rise-and-fall-of-liberal-democracys-shared-fiction": {
-    "date": "2026-07-31T13:02:37.973364+00:00",
-    "title": "The Rise And Fall Of Liberal Democracy\u2019s Shared Fiction",
-    "skipped": true
-  },
-  "https://www.aspeninstitute.org/blog-posts/resource-roundup-the-american-dream-at-250-and-the-future-of-labor/": {
-    "date": "2026-07-31T13:02:37.973366+00:00",
-    "title": "Resource Roundup: The American Dream at 250 and the Future of Labor",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/ocean-activities/?utm_source=rss&utm_medium=rss&utm_campaign=ocean-activities": {
-    "date": "2026-07-31T13:02:37.973369+00:00",
-    "title": "34 Easy Ocean Crafts and Learning Activities for Kids",
-    "skipped": true
-  },
-  "https://larryferlazzo.edublogs.org/2026/07/31/just-sent-out-free-monthly-email-newsletter-97/": {
-    "date": "2026-07-31T13:02:37.973371+00:00",
-    "title": "Just Sent-Out Free Monthly Email Newsletter",
-    "skipped": true
-  },
-  "https://larryferlazzo.edublogs.org/2026/07/31/finlingo-might-be-a-decent-option-for-a-financial-literacy-program/": {
-    "date": "2026-07-31T13:02:37.973373+00:00",
-    "title": "\u201cFinlingo\u201d MIGHT Be A Decent Option For A Financial Literacy Program",
-    "skipped": true
-  },
-  "https://larryferlazzo.edublogs.org/2026/07/31/julys-best-lists-there-are-now-2604-of-them/": {
-    "date": "2026-07-31T13:02:37.973375+00:00",
-    "title": "July\u2019s \u201cBest\u201d Lists \u2013 There Are Now 2,604 Of Them!",
-    "skipped": true
-  },
   "https://hechingerreport.org/opinion-americas-teacher-shortage-is-worse-than-you-think-but-theres-a-way-to-fix-it/": {
     "date": "2026-08-03T13:45:26.525712+00:00",
     "title": "OPINION: America\u2019s teacher shortage is worse than you think. But there\u2019s a way to fix it",
@@ -5377,6 +4882,166 @@
   "https://larryferlazzo.edublogs.org/2026/09/10/if-i-was-still-teaching-id-carefully-use-some-combination-of-these-new-videos-in-a-unit-about-ai-literacy/": {
     "date": "2026-09-11T14:57:22.122433+00:00",
     "title": "If I Was Still Teaching, I\u2019d Carefully Use Some Combination Of These New Videos In A Unit About AI Literacy",
+    "skipped": true
+  },
+  "https://hechingerreport.org/proof-points-cuny-asap-earnings/": {
+    "date": "2026-09-14T16:55:40.109447+00:00",
+    "title": "More degrees but not higher earnings: Puzzling data from CUNY\u2019s famed ASAP program",
+    "skipped": true
+  },
+  "https://hechingerreport.org/opinion-weve-been-treating-college-as-a-career-plan-but-its-failing-too-many-students/": {
+    "date": "2026-09-14T16:55:40.109460+00:00",
+    "title": "OPINION: We\u2019ve been treating college as a career plan, but it\u2019s failing too many students",
+    "skipped": true
+  },
+  "https://edsurge.com/news/new-york-and-los-angeles-ban-student-facing-ai-for-now-should-other-schools-follow": {
+    "date": "2026-09-14T16:55:40.109466+00:00",
+    "title": "New York and Los Angeles Ban Student-Facing AI (For Now). Should Other Schools Follow?",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/heat-fires-hurricanes-floods-how-climate-change-is-keeping-kids-from-school/": {
+    "date": "2026-09-14T16:55:40.109468+00:00",
+    "title": "Heat, Fires, Hurricanes, Floods: How Climate Change Is Keeping Kids From School",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/amid-shortage-of-counselors-students-need-stronger-networks-not-more-chatbots/": {
+    "date": "2026-09-14T16:55:40.109472+00:00",
+    "title": "Opinion: Amid Shortage of Counselors, Students Need Stronger Networks, Not More Chatbots",
+    "skipped": true
+  },
+  "https://www.the74million.org/zero2eight/too-often-childcare-regulations-are-a-matter-of-interpretation/": {
+    "date": "2026-09-14T16:55:40.109475+00:00",
+    "title": "Opinion: Too Often, Childcare Regulations are a Matter of Interpretation",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/exclusive-districts-with-steady-leadership-see-better-student-performance/": {
+    "date": "2026-09-14T16:55:40.109478+00:00",
+    "title": "Superintendent Churn Comes With a Cost for Students",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/kids-are-back-in-classrooms-health-misinformation-could-shape-the-school-year/": {
+    "date": "2026-09-14T16:55:40.109480+00:00",
+    "title": "Kids Are Back in Classrooms. Health Misinformation Could Shape the School Year.",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/quick-takes/2026/09/14/iranian-students-barred-lsat": {
+    "date": "2026-09-14T16:55:40.109483+00:00",
+    "title": "Iranian Students Barred From LSAT",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/quick-takes/2026/09/14/ucla-chancellor-criticizes-law-schools-sept-11-symposium": {
+    "date": "2026-09-14T16:55:40.109485+00:00",
+    "title": "UCLA Chancellor Criticizes Law School\u2019s Sept. 11 Symposium",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/opinion/columns/confessions-community-college-dean/2026/09/14/thoughtful": {
+    "date": "2026-09-14T16:55:40.109487+00:00",
+    "title": "Thoughtful",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/opinion/columns/tough-love/2026/09/14/why-we-havent-measured-college-level-learning-column": {
+    "date": "2026-09-14T16:55:40.109489+00:00",
+    "title": "Why We Haven\u2019t Measured College-Level Learning",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/opinion/views/2026/09/14/small-colleges-machines-being-known-opinion": {
+    "date": "2026-09-14T16:55:40.109492+00:00",
+    "title": "A Machine for Being Known: The Competitive\u00a0Advantage\u00a0of Liberal Arts Colleges",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/global/international-students-us/2026/09/14/key-questions-about-international-student-visa": {
+    "date": "2026-09-14T16:55:40.109494+00:00",
+    "title": "5 Things to Know About New International Student Visa Limits",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/student-success/college-experience/2026/09/14/when-are-students-better-offline": {
+    "date": "2026-09-14T16:55:40.109496+00:00",
+    "title": "When Are Students Better Off Offline?",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/government/courts/2026/09/14/doj-sues-all-states-state-tuition-noncitizens": {
+    "date": "2026-09-14T16:55:40.109498+00:00",
+    "title": "DOJ Sues All States With In-State Tuition Policies for Undocumented Students",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/quick-takes/2026/09/14/aaup-issues-own-call-action-mcmahon": {
+    "date": "2026-09-14T16:55:40.109500+00:00",
+    "title": "AAUP Sends Its Own \u2018Call to Action\u2019 to McMahon",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/09/14/nonexistent-research-ais-benefits-education": {
+    "date": "2026-09-14T16:55:40.109502+00:00",
+    "title": "The \u2018Nonexistent\u2019 Research on AI\u2019s Benefits for Education",
+    "skipped": true
+  },
+  "https://www.gettingsmart.com/2026/09/14/one-map-every-framework-the-shared-architecture-behind-school-transformation/": {
+    "date": "2026-09-14T16:55:40.109504+00:00",
+    "title": "One Map, Every Framework: The Shared Architecture Behind School Transformation",
+    "skipped": true
+  },
+  "https://www.educationnext.org/schools-of-distraction-high-schools-overrun-by-screens-and-ai-enabled-shortcuts/": {
+    "date": "2026-09-14T16:55:40.109507+00:00",
+    "title": "Schools of Distraction",
+    "skipped": true
+  },
+  "https://www.educationnext.org/the-education-exchange-can-microschoolers-homeschoolers-receive-federal-tax-credit-scholarships-its-complicated/": {
+    "date": "2026-09-14T16:55:40.109509+00:00",
+    "title": "The Education Exchange: Can Microschoolers, Homeschoolers Receive Federal Tax Credit Scholarships?",
+    "skipped": true
+  },
+  "https://nautil.us/drcs-ebola-outbreak-has-the-potential-to-become-a-global-pandemic-how-to-make-sure-it-doesnt-1285005/": {
+    "date": "2026-09-14T16:55:40.109512+00:00",
+    "title": "DRC\u2019s Ebola Outbreak Has the Potential to Become a Global Pandemic. How to Make Sure It\u00a0Doesn\u2019t",
+    "skipped": true
+  },
+  "https://nautil.us/the-promise-and-peril-of-toad-smoking-the-everest-of-psychedelics-1284999/": {
+    "date": "2026-09-14T16:55:40.109514+00:00",
+    "title": "The Promise and Peril of Toad Smoking, the Everest of Psychedelics",
+    "skipped": true
+  },
+  "https://nautil.us/why-the-discovery-of-the-first-short-tailed-tsushima-leopard-cat-worried-researchers-1285013/": {
+    "date": "2026-09-14T16:55:40.109516+00:00",
+    "title": "Why the Discovery of the First Short-Tailed Tsushima Leopard Cat Worried Researchers",
+    "skipped": true
+  },
+  "https://aeon.co/videos/are-we-ever-really-done-seeing-a-movie-on-platoon-and-memory": {
+    "date": "2026-09-14T16:55:40.109519+00:00",
+    "title": "Once upon a screen: explosive paradox",
+    "skipped": true
+  },
+  "https://aeon.co/essays/its-not-just-screen-time-kids-are-bombarded-by-hectic-media": {
+    "date": "2026-09-14T16:55:40.109521+00:00",
+    "title": "The bombarding of childhood",
+    "skipped": true
+  },
+  "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/": {
+    "date": "2026-09-14T16:55:40.109523+00:00",
+    "title": "Black Holes or Black Hole Stars? Astronomers Spar Over Webb Telescope\u2019s \u2018Little Red Dots.\u2019",
+    "skipped": true
+  },
+  "https://www.aspeninstitute.org/publications/innovations-to-accelerate-rural-wealth-building/": {
+    "date": "2026-09-14T16:55:40.109525+00:00",
+    "title": "Innovations to Accelerate Rural Wealth Building",
+    "skipped": true
+  },
+  "https://www.aspeninstitute.org/publications/foundational-skills-early-insights-from-employers-and-providers/": {
+    "date": "2026-09-14T16:55:40.109528+00:00",
+    "title": "Foundational Skills: Early Insights from Employers and Providers",
+    "skipped": true
+  },
+  "https://www.themarginalian.org/2026/09/13/seneca-friendship/": {
+    "date": "2026-09-14T16:55:40.109530+00:00",
+    "title": "Seneca on True and False Friendship",
+    "skipped": true
+  },
+  "https://www.cultofpedagogy.com/realistic-differentiation/": {
+    "date": "2026-09-14T16:55:40.109533+00:00",
+    "title": "A Realistic Approach to Differentiation",
+    "skipped": true
+  },
+  "https://larryferlazzo.edublogs.org/2026/09/14/rank-in-world-lets-you-compare-tons-of-data-about-any-two-countries-in-the-world/": {
+    "date": "2026-09-14T16:55:40.109535+00:00",
+    "title": "\u201cRank In World\u201d Lets You Compare Tons Of Data About Any Two Countries In The World",
     "skipped": true
   }
 }
