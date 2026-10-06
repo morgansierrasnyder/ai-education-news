@@ -1,614 +1,4 @@
 {
-  "https://hechingerreport.org/a-national-divide-over-holding-back-students-some-states-do-it-young-others-wait-until-high-school/": {
-    "date": "2026-08-19T11:33:00.962502+00:00",
-    "title": "A national divide over holding back students: Some states do it young, others wait until high school",
-    "skipped": true
-  },
-  "https://edsurge.com/news/the-case-against-the-classroom-cellphone-crackdown": {
-    "date": "2026-08-19T11:33:00.962518+00:00",
-    "title": "The Case Against the Classroom Cellphone Crackdown",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/put-the-credit-cards-away-workforce-pell-will-help-pay-for-career-training/": {
-    "date": "2026-08-19T11:33:00.962521+00:00",
-    "title": "Put the Credit Cards Away. Workforce Pell Will Help Pay for Career Training",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/californians-voted-to-spend-1-billion-on-k-12-arts-why-are-schools-returning-the-money/": {
-    "date": "2026-08-19T11:33:00.962524+00:00",
-    "title": "Californians Voted to Spend $1 Billion on K-12 Arts. Why Are Schools Returning the Money?",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/for-children-who-think-differently-chess-can-be-more-than-a-game/": {
-    "date": "2026-08-19T11:33:00.962526+00:00",
-    "title": "Opinion: For Children Who Think Differently, Chess Can Be More Than a Game",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/oklahoma-students-head-back-to-school-with-focus-on-literacy/": {
-    "date": "2026-08-19T11:33:00.962529+00:00",
-    "title": "Oklahoma Students Head Back to School With Focus on Literacy",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/6-keys-to-moving-cte-from-pilot-to-permanent-part-of-a-redesigned-hs-experience/": {
-    "date": "2026-08-19T11:33:00.962531+00:00",
-    "title": "Opinion: 6 Keys to Moving CTE From Pilot to Permanent Part of a Redesigned HS Experience",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/government/student-aid-policy/2026/08/19/almost-half-colleges-havent-fully-submitted-student": {
-    "date": "2026-08-19T11:33:00.962532+00:00",
-    "title": "42% of Colleges Haven\u2019t Fully Submitted Required Student Outcomes Data",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/students/free-speech/2026/08/19/students-choices-fueling-polarization-higher-ed": {
-    "date": "2026-08-19T11:33:00.962534+00:00",
-    "title": "Students\u2019 Choices of Roommates, Clubs and More Fuel Higher Ed Polarization",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/government/state-policy/2026/08/19/calif-bill-could-create-asian-serving-designation": {
-    "date": "2026-08-19T11:33:00.962536+00:00",
-    "title": "Calif. Bill Could Create Designation for Asian-Serving Colleges",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/08/19/florida-responds-mcmahon-call-action": {
-    "date": "2026-08-19T11:33:00.962538+00:00",
-    "title": "Florida Responds to McMahon \u2018Call to Action\u2019",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/student-success/life-after-college/2026/08/19/ai-career-skills-move-beyond-computer-science": {
-    "date": "2026-08-19T11:33:00.962540+00:00",
-    "title": "AI Career Skills Move Beyond Computer Science",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/global/international-students-us/2026/08/19/lawsuit-seeks-vacate-rule-ending-duration-status": {
-    "date": "2026-08-19T11:33:00.962542+00:00",
-    "title": "Lawsuit Challenges New Length-of-Stay Limit for International Students",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/08/19/universities-wisconsin-announce-2-year-tuition-freeze": {
-    "date": "2026-08-19T11:33:00.962544+00:00",
-    "title": "Universities of Wisconsin Announce 2-Year Tuition Freeze",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/online-trending-now/2026/08/19/focus-quantum-future": {
-    "date": "2026-08-19T11:33:00.962545+00:00",
-    "title": "Focus on the Quantum Future",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/08/19/jacksonville-state-dissolves-faculty-senate": {
-    "date": "2026-08-19T11:33:00.962546+00:00",
-    "title": "Jacksonville State Dissolves Faculty Senate",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/call-action/2026/08/19/how-higher-ed-can-maximize-impact-ai-search": {
-    "date": "2026-08-19T11:33:00.962548+00:00",
-    "title": "Own the Answer and the Ad: Maximizing Impact From AI Search",
-    "skipped": true
-  },
-  "https://nautil.us/why-you-move-factors-in-to-whether-it-protects-you-from-dementia-1283940/": {
-    "date": "2026-08-19T11:33:00.962550+00:00",
-    "title": "Why You Move Factors in to Whether It Protects You From Dementia",
-    "skipped": true
-  },
-  "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947/": {
-    "date": "2026-08-19T11:33:00.962552+00:00",
-    "title": "The Wonders of the Male Human Pelvis",
-    "skipped": true
-  },
-  "https://nautil.us/how-our-perceptions-of-aging-can-affect-our-social-lives-1283944/": {
-    "date": "2026-08-19T11:33:00.962554+00:00",
-    "title": "How Our Perceptions of Aging Can Affect Our Social Lives",
-    "skipped": true
-  },
-  "https://nautil.us/how-paying-attention-to-pain-could-help-you-heal-faster-1283936/": {
-    "date": "2026-08-19T11:33:00.962555+00:00",
-    "title": "How Paying Attention to Pain Could Help You Heal Faster",
-    "skipped": true
-  },
-  "https://nautil.us/how-the-narwhal-got-its-twisted-tusk-1283930/": {
-    "date": "2026-08-19T11:33:00.962557+00:00",
-    "title": "How the Narwhal Got Its Twisted Tusk",
-    "skipped": true
-  },
-  "https://nautil.us/a-dazzling-image-of-a-dying-star-featuring-the-great-recycling-system-of-the-cosmos-1283923/": {
-    "date": "2026-08-19T11:33:00.962559+00:00",
-    "title": "A Dazzling Image of a Dying Star, Featuring the Great Recycling System of the Cosmos",
-    "skipped": true
-  },
-  "https://nautil.us/is-immortality-possible-1283865/": {
-    "date": "2026-08-19T11:33:00.962562+00:00",
-    "title": "Is Immortality Possible?",
-    "skipped": true
-  },
-  "https://aeon.co/videos/thieves-of-cursed-rocks-pen-letters-of-remorse-to-a-national-park": {
-    "date": "2026-08-19T11:33:00.962564+00:00",
-    "title": "The conscience files",
-    "skipped": true
-  },
-  "https://www.aspeninstitute.org/blog-posts/making-skills-first-work-for-small-businesses/": {
-    "date": "2026-08-19T11:33:00.962565+00:00",
-    "title": "Making Skills-First Work for Small Businesses",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/08/18/moonlight/": {
-    "date": "2026-08-19T11:33:00.962567+00:00",
-    "title": "Moonlight and the Magic of the Unnecessary",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/08/18/camus-sea/": {
-    "date": "2026-08-19T11:33:00.962569+00:00",
-    "title": "How to Be a Sea: Albert Camus on Learning to Die and Learning to Live",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/08/18/when-women-were-birds/": {
-    "date": "2026-08-19T11:33:00.962571+00:00",
-    "title": "The Bird in the Heart: Terry Tempest Williams on the Paradox of Transformation and How to Live with Uncertainty",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/08/18/georgia-okeeffe-flower/": {
-    "date": "2026-08-19T11:33:00.962573+00:00",
-    "title": "Georgia O\u2019Keeffe on the Art of Seeing",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/free-nutrition-education-video-programs/?utm_source=rss&utm_medium=rss&utm_campaign=free-nutrition-education-video-programs": {
-    "date": "2026-08-19T11:33:00.962574+00:00",
-    "title": "Know Where Your Food Comes From! 11 Free Nutrition Education Video Lessons for Your Classroom",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/is-we-are-teachers-premium-membership-worth-it/?utm_source=rss&utm_medium=rss&utm_campaign=is-we-are-teachers-premium-membership-worth-it": {
-    "date": "2026-08-19T11:33:00.962576+00:00",
-    "title": "Is We Are Teachers Premium Membership Really Worth It?",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/how-to-use-we-are-teachers-premium-membership/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-we-are-teachers-premium-membership": {
-    "date": "2026-08-19T11:33:00.962578+00:00",
-    "title": "How To Use We Are Teachers Premium Membership in Your Classroom",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/teacher-author-spotlight-lindsay-barrett/?utm_source=rss&utm_medium=rss&utm_campaign=teacher-author-spotlight-lindsay-barrett": {
-    "date": "2026-08-19T11:33:00.962580+00:00",
-    "title": "Teacher Author Spotlight: Lindsay Barrett",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/teacher-author-spotlight-nicole-homerin/?utm_source=rss&utm_medium=rss&utm_campaign=teacher-author-spotlight-nicole-homerin": {
-    "date": "2026-08-19T11:33:00.962582+00:00",
-    "title": "Teacher Author Spotlight: Nicole Homerin",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/teacher-author-spotlight-hilary-statum/?utm_source=rss&utm_medium=rss&utm_campaign=teacher-author-spotlight-hilary-statum": {
-    "date": "2026-08-19T11:33:00.962584+00:00",
-    "title": "Teacher Author Spotlight: Hilary Statum",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/teacher-author-spotlight-brooke-naumoff/?utm_source=rss&utm_medium=rss&utm_campaign=teacher-author-spotlight-brooke-naumoff": {
-    "date": "2026-08-19T11:33:00.962586+00:00",
-    "title": "Teacher Author Spotlight: Brooke Naumoff",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/teacher-author-spotlight-fenyx-blue/?utm_source=rss&utm_medium=rss&utm_campaign=teacher-author-spotlight-fenyx-blue": {
-    "date": "2026-08-19T11:33:00.962587+00:00",
-    "title": "Teacher Author Spotlight: Fenyx Blue",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/teacher-author-spotlight-sarah-donovan/?utm_source=rss&utm_medium=rss&utm_campaign=teacher-author-spotlight-sarah-donovan": {
-    "date": "2026-08-19T11:33:00.962589+00:00",
-    "title": "Teacher Author Spotlight: Sarah Donovan",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/teacher-author-spotlight-myranda-mcdonald/?utm_source=rss&utm_medium=rss&utm_campaign=teacher-author-spotlight-myranda-mcdonald": {
-    "date": "2026-08-19T11:33:00.962590+00:00",
-    "title": "Teacher Author Spotlight: Myranda McDonald",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/teacher-author-spotlight-steffy-mccourt/?utm_source=rss&utm_medium=rss&utm_campaign=teacher-author-spotlight-steffy-mccourt": {
-    "date": "2026-08-19T11:33:00.962592+00:00",
-    "title": "Teacher Author Spotlight: Steffy McCourt",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/fall-writing-paper/?utm_source=rss&utm_medium=rss&utm_campaign=fall-writing-paper": {
-    "date": "2026-08-19T11:33:00.962594+00:00",
-    "title": "Fall Writing Paper Printable Bundle",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/los-angeles-apparel-teacher-discount/?utm_source=rss&utm_medium=rss&utm_campaign=los-angeles-apparel-teacher-discount": {
-    "date": "2026-08-19T11:33:00.962596+00:00",
-    "title": "Deal of the Day: Save 10% on Los Angeles Apparel",
-    "skipped": true
-  },
-  "https://hechingerreport.org/how-florida-quietly-removed-climate-change-content-from-textbooks/": {
-    "date": "2026-08-20T11:34:03.104462+00:00",
-    "title": "How Florida quietly removed climate change content from textbooks",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/student-journalists-ai-is-changing-our-work-and-not-for-the-better/": {
-    "date": "2026-08-20T11:34:03.104476+00:00",
-    "title": "Student Journalists: AI Is Changing Our Work \u2014 And Not For the Better",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/parents-night-out-fun-for-kids-freedom-for-parents/": {
-    "date": "2026-08-20T11:34:03.104480+00:00",
-    "title": "Parents\u2019 Night Out: Fun for Kids. Freedom for Parents",
-    "skipped": true
-  },
-  "https://www.the74million.org/zero2eight/head-start-providers-describe-a-system-in-turmoil-amid-federal-cutbacks/": {
-    "date": "2026-08-20T11:34:03.104483+00:00",
-    "title": "Head Start Providers Describe a System in Turmoil Amid Federal Cutbacks",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/fcc-review-could-end-school-internet-program-advocates-plan-very-loud-protest/": {
-    "date": "2026-08-20T11:34:03.104487+00:00",
-    "title": "FCC Review Could End School Internet Program. Advocates Plan \u2018Very Loud\u2019 Protest",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/portrait-of-a-graduate-initiatives-can-fail-but-new-yorks-doesnt-have-to/": {
-    "date": "2026-08-20T11:34:03.104490+00:00",
-    "title": "Opinion: Portrait of a Graduate Initiatives Can Fail, but New York\u2019s Doesn\u2019t Have To",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/when-ai-makes-young-people-think-for-themselves-real-learning-happens/": {
-    "date": "2026-08-20T11:34:03.104492+00:00",
-    "title": "Opinion: When AI Makes Young People Think for Themselves, Real Learning Happens",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/student-success/academic-life/2026/08/20/rethinking-calculus-future-engineers": {
-    "date": "2026-08-20T11:34:03.104495+00:00",
-    "title": "Rethinking Calculus for Future Engineers",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/08/20/how-unc-system-responded-mcmahons-call-action": {
-    "date": "2026-08-20T11:34:03.104497+00:00",
-    "title": "UNC System Answers McMahon\u2019s \u2018Call to Action\u2019",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/08/20/broward-college-president-fends-firing-attempt": {
-    "date": "2026-08-20T11:34:03.104499+00:00",
-    "title": "Broward College President Fends Off Firing Attempt",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/08/20/key-podcast-newsroom-federal-policy-analysis": {
-    "date": "2026-08-20T11:34:03.104502+00:00",
-    "title": "The Key Podcast: Newsroom Federal Policy Analysis",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/faculty/teaching/2026/08/20/ai-requirements-and-courses-colleges-eye-ai-fluency": {
-    "date": "2026-08-20T11:34:03.104504+00:00",
-    "title": "With New AI Requirements and Courses, Colleges Eye AI Fluency",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/08/20/charges-filed-relation-penn-state-fraternity-drug-ring": {
-    "date": "2026-08-20T11:34:03.104506+00:00",
-    "title": "Charges Filed in Penn State Cocaine Trafficking Case",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/tech-innovation/administrative-tech/2026/08/20/cyber-threat-delays-start-classes-ut-san": {
-    "date": "2026-08-20T11:34:03.104508+00:00",
-    "title": "Cybersecurity Threat Delays Start of Classes at UT San Antonio",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/governance/executive-leadership/2026/08/20/presidents-cash-corporate-board-seats": {
-    "date": "2026-08-20T11:34:03.104511+00:00",
-    "title": "College Leaders Get a Boost From Corporate Board Service",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/08/20/2-milligan-university-cyclists-killed-crash": {
-    "date": "2026-08-20T11:34:03.104513+00:00",
-    "title": "2 Milligan University Cyclists Killed in Crash",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/08/20/ed-releases-accreditation-rule-public-comment": {
-    "date": "2026-08-20T11:34:03.104515+00:00",
-    "title": "ED Releases Accreditation Rule for Public Comment",
-    "skipped": true
-  },
-  "https://www.gettingsmart.com/2026/08/20/how-empathy-interviews-transform-stakeholder-engagement-into-shared-ownership/": {
-    "date": "2026-08-20T11:34:03.104517+00:00",
-    "title": "How Empathy Interviews Transform Stakeholder Engagement into Shared Ownership",
-    "skipped": true
-  },
-  "https://www.educationnext.org/how-to-run-a-school-district-without-really-telling-by-design-miles-book-review/": {
-    "date": "2026-08-20T11:34:03.104520+00:00",
-    "title": "How to Run a School District Without Really Telling",
-    "skipped": true
-  },
-  "https://nautil.us/do-zoo-otters-love-people-watching-1284025/": {
-    "date": "2026-08-20T11:34:03.104522+00:00",
-    "title": "Do Zoo Otters Love People Watching?",
-    "skipped": true
-  },
-  "https://nautil.us/how-listening-to-ocean-waves-can-predict-volcanic-eruptions-1284014/": {
-    "date": "2026-08-20T11:34:03.104524+00:00",
-    "title": "How Listening to Ocean Waves Can Predict Volcanic Eruptions",
-    "skipped": true
-  },
-  "https://nautil.us/the-kerry-cow-wasnt-a-cow-at-all-and-it-upends-stone-age-irish-history-1283999/": {
-    "date": "2026-08-20T11:34:03.104526+00:00",
-    "title": "The \u201cKerry Cow\u201d Wasn\u2019t a Cow at All\u2014And It Upends Stone Age Irish History",
-    "skipped": true
-  },
-  "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985/": {
-    "date": "2026-08-20T11:34:03.104529+00:00",
-    "title": "Why It Might Be Time to Rethink the Human Family Tree",
-    "skipped": true
-  },
-  "https://nautil.us/what-a-blissful-psychedelic-trip-looks-like-inside-the-brain-1283982/": {
-    "date": "2026-08-20T11:34:03.104531+00:00",
-    "title": "What a Blissful Psychedelic Trip Looks Like Inside the Brain",
-    "skipped": true
-  },
-  "https://nautil.us/tiktok-discovered-a-blind-pale-worm-like-fish-1283977/": {
-    "date": "2026-08-20T11:34:03.104533+00:00",
-    "title": "TikTok Discovered a Blind, Pale, Worm-Like Fish",
-    "skipped": true
-  },
-  "https://nautil.us/the-best-ocean-photos-of-the-year-1283951/": {
-    "date": "2026-08-20T11:34:03.104535+00:00",
-    "title": "The Best Ocean Photos of the Year",
-    "skipped": true
-  },
-  "https://aeon.co/videos/repulsion-at-the-core-of-attraction-on-the-paradox-of-touch": {
-    "date": "2026-08-20T11:34:03.104538+00:00",
-    "title": "A vocabulary for the future: touch",
-    "skipped": true
-  },
-  "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin": {
-    "date": "2026-08-20T11:34:03.104540+00:00",
-    "title": "Dolphins and other lovers",
-    "skipped": true
-  },
-  "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qubit-at-a-time-20260819/": {
-    "date": "2026-08-20T11:34:03.104543+00:00",
-    "title": "Building a Quantum Computer, One Fragile Qubit at a Time",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/08/19/rockwell-kent-wilderness/": {
-    "date": "2026-08-20T11:34:03.104545+00:00",
-    "title": "Wilderness, Solitude, and Creativity: Artist and Philosopher Rockwell Kent\u2019s Century-Old Meditations on Art and Life During Seven Months on a Small Alaskan Island",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/08/19/dropping-ashes-on-the-buddha-death/": {
-    "date": "2026-08-20T11:34:03.104547+00:00",
-    "title": "How to Hold Death and Carry Life: A Zen Master Explains Existence to a Child and Outlines the Three Essential Principles of Zen Mind",
-    "skipped": true
-  },
-  "https://www.bera.ac.uk/news/bera-statement": {
-    "date": "2026-08-20T11:34:03.104549+00:00",
-    "title": "BERA Statement",
-    "skipped": true
-  },
-  "https://hechingerreport.org/help-us-understand-how-ai-has-changed-the-way-you-teach/": {
-    "date": "2026-08-21T11:33:20.665536+00:00",
-    "title": "Help us understand how AI has changed the way you teach",
-    "skipped": true
-  },
-  "https://hechingerreport.org/developmental-screening-outside-the-doctors-office/": {
-    "date": "2026-08-21T11:33:20.665550+00:00",
-    "title": "Developmental screening outside the doctor\u2019s office",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/when-parents-stop-expecting-more-the-missing-variable-in-academic-decline/": {
-    "date": "2026-08-21T11:33:20.665553+00:00",
-    "title": "Opinion: When Parents Stop Expecting More: The Missing Variable in Academic Decline",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/higher-grades-and-belonging-trans-students-thrive-when-supported-by-teachers/": {
-    "date": "2026-08-21T11:33:20.665556+00:00",
-    "title": "Higher Grades and Belonging: Trans Students Thrive When Supported by Teachers",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/nyc-mayor-sues-city-council-over-law-giving-10000-bonuses-to-paraprofessionals/": {
-    "date": "2026-08-21T11:33:20.665559+00:00",
-    "title": "NYC Mayor Sues City Council Over Law Giving $10,000 Bonuses to Paraprofessionals",
-    "skipped": true
-  },
-  "https://www.the74million.org/zero2eight/head-start-changed-my-life-the-proposed-reforms-would-gut-the-program/": {
-    "date": "2026-08-21T11:33:20.665561+00:00",
-    "title": "Opinion: Head Start Changed My Life. The Proposed Reforms Would Gut the Program",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/dismantling-the-dyslexia-industrial-complex/": {
-    "date": "2026-08-21T11:33:20.665563+00:00",
-    "title": "Opinion: Dismantling the Dyslexia Industrial Complex",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/students/free-speech/2026/08/21/whistleblower-allegations-might-not-affect-college-settlements": {
-    "date": "2026-08-21T11:33:20.665566+00:00",
-    "title": "Universities Settled Over Allegedly Baseless Probes. They\u2019re Not Expressing Regret.",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/08/21/ivy-tech-receives-approval-workforce-pell-program": {
-    "date": "2026-08-21T11:33:20.665568+00:00",
-    "title": "Ivy Tech Receives Approval for Workforce Pell Program",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/student-success/life-after-college/2026/08/21/earn-while-you-learn-path-teaching": {
-    "date": "2026-08-21T11:33:20.665570+00:00",
-    "title": "An Earn-While-You-Learn Path Into Teaching",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/faculty/2026/08/21/university-suspends-academic-who-accused-arday-plagiarism": {
-    "date": "2026-08-21T11:33:20.665573+00:00",
-    "title": "University Suspends Academic Who Accused Jason Arday of Plagiarism",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/students/financial-aid/2026/08/21/some-tuition-payments-now-payable-paypal-and-venmo": {
-    "date": "2026-08-21T11:33:20.665575+00:00",
-    "title": "Some Students Can Now Venmo Their College Tuition",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/08/21/berkeley-report-says-trusting-campus-climate-vital-mission": {
-    "date": "2026-08-21T11:33:20.665578+00:00",
-    "title": "Berkeley Report Says Trusting Campus Climate \u2018Vital\u2019 to University\u2019s Mission",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/news/quick-takes/2026/08/21/tenure-track-ranks-grew-last-year-survey-finds": {
-    "date": "2026-08-21T11:33:20.665580+00:00",
-    "title": "Tenure-Track Ranks Grew Last Year, Survey Finds",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/confessions-community-college-dean/2026/08/21/friday-fragments": {
-    "date": "2026-08-21T11:33:20.665583+00:00",
-    "title": "Friday Fragments",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/everything-fine/2026/08/21/new-school-years-resolutions": {
-    "date": "2026-08-21T11:33:20.665585+00:00",
-    "title": "New (School) Year\u2019s Resolutions",
-    "skipped": true
-  },
-  "https://www.insidehighered.com/opinion/columns/just-visiting/2026/08/21/we-could-teach-writing-it-will-take-resources": {
-    "date": "2026-08-21T11:33:20.665587+00:00",
-    "title": "There\u2019s Little Evidence Institutions Care About Writing",
-    "skipped": true
-  },
-  "https://nautil.us/even-mussels-get-scared-1284061/": {
-    "date": "2026-08-21T11:33:20.665589+00:00",
-    "title": "Even Mussels Get Scared",
-    "skipped": true
-  },
-  "https://nautil.us/youre-not-a-universal-mosquito-magnet-1284049/": {
-    "date": "2026-08-21T11:33:20.665591+00:00",
-    "title": "You\u2019re Not a Universal Mosquito Magnet",
-    "skipped": true
-  },
-  "https://nautil.us/how-the-ancient-greeks-interpreted-their-dreams-1284046/": {
-    "date": "2026-08-21T11:33:20.665593+00:00",
-    "title": "How the Ancient Greeks Interpreted Their Dreams",
-    "skipped": true
-  },
-  "https://nautil.us/the-secret-lives-of-japanese-temple-frogs-1284039/": {
-    "date": "2026-08-21T11:33:20.665596+00:00",
-    "title": "The Secret Lives of Japanese Temple Frogs",
-    "skipped": true
-  },
-  "https://nautil.us/no-one-knows-how-whale-sharks-give-birth-but-this-neonatal-shark-discovery-provides-some-clues-1284017/": {
-    "date": "2026-08-21T11:33:20.665598+00:00",
-    "title": "No One Knows How Whale Sharks Give Birth\u2014But This Neonatal Shark Discovery Provides Some Clues",
-    "skipped": true
-  },
-  "https://nautil.us/the-return-of-a-discredited-pseudoscience-1283873/": {
-    "date": "2026-08-21T11:33:20.665600+00:00",
-    "title": "The Return of a Discredited Pseudoscience",
-    "skipped": true
-  },
-  "https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman": {
-    "date": "2026-08-21T11:33:20.665602+00:00",
-    "title": "The fog of hunger",
-    "skipped": true
-  },
-  "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/": {
-    "date": "2026-08-21T11:33:20.665605+00:00",
-    "title": "Are We Thinking Correctly About AI Intelligence?",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/08/20/any-common-desolation-ellen-bass/": {
-    "date": "2026-08-21T11:33:20.665607+00:00",
-    "title": "How to Bear Your Desolations",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/08/20/weeds-and-stars-lisa-rosenberg/": {
-    "date": "2026-08-21T11:33:20.665609+00:00",
-    "title": "The Resilience of Uncertainty: How to Hold the Universe in You",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/08/20/martha-nussbaum-loves-knowledge/": {
-    "date": "2026-08-21T11:33:20.665612+00:00",
-    "title": "How Do You Know That You Love Somebody? Philosopher Martha Nussbaum\u2019s Incompleteness Theorem of the Heart\u2019s Truth, from Plato to Proust",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/08/20/traversal-love/": {
-    "date": "2026-08-21T11:33:20.665614+00:00",
-    "title": "Where Love Goes When It Goes",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/jb-pritzkers-education-record-earns-key-reelection-endorsement-from-illinois-teachers-union/": {
-    "date": "2026-08-22T11:27:28.502571+00:00",
-    "title": "JB Pritzker\u2019s Education Record Earns Key Endorsement from Illinois Teachers Union",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/skyrocketing-school-lunch-prices-are-putting-the-squeeze-on-parents/": {
-    "date": "2026-08-22T11:27:28.502587+00:00",
-    "title": "Skyrocketing School Lunch Prices Are Putting the Squeeze on Parents",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/for-early-grade-reading-gains-states-look-to-mississippi-and-consider-holding-students-back/": {
-    "date": "2026-08-22T11:27:28.502590+00:00",
-    "title": "For Early Grade Reading Gains, States Look to Mississippi and Consider Holding Students Back",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/hawai%ca%bbi-freshmen-failing-ninth-grade-repeater-rate-among-nations-highest/": {
-    "date": "2026-08-22T11:27:28.502593+00:00",
-    "title": "Hawai\u02bbi Freshmen Failing: Ninth Grade Repeater Rate Among Nation\u2019s Highest",
-    "skipped": true
-  },
-  "https://www.the74million.org/article/missouri-education-board-wary-of-300-million-school-funding-increase/": {
-    "date": "2026-08-22T11:27:28.502596+00:00",
-    "title": "Missouri Education Board Wary of $300 Million School Funding Increase",
-    "skipped": true
-  },
-  "https://nautil.us/the-remarkable-lives-of-5-year-old-brain-organoids-1284120/": {
-    "date": "2026-08-22T11:27:28.502599+00:00",
-    "title": "The Remarkable Lives of 5-Year-Old Brain Organoids",
-    "skipped": true
-  },
-  "https://nautil.us/are-you-in-danger-of-becoming-a-robot-1284114/": {
-    "date": "2026-08-22T11:27:28.502602+00:00",
-    "title": "Are You in Danger of Becoming a Robot?",
-    "skipped": true
-  },
-  "https://nautil.us/a-peek-inside-the-pompeii-of-greece-1284099/": {
-    "date": "2026-08-22T11:27:28.502604+00:00",
-    "title": "A Peek Inside the Pompeii of Greece",
-    "skipped": true
-  },
-  "https://nautil.us/dolphins-eavesdrop-on-their-prey-and-each-other-1284095/": {
-    "date": "2026-08-22T11:27:28.502606+00:00",
-    "title": "Dolphins Eavesdrop on Their Prey\u2014and Each Other",
-    "skipped": true
-  },
-  "https://nautil.us/ai-can-see-optical-illusions-1284064/": {
-    "date": "2026-08-22T11:27:28.502608+00:00",
-    "title": "AI Can See Optical Illusions",
-    "skipped": true
-  },
-  "https://nautil.us/why-human-giants-defy-the-laws-of-physics-1284028/": {
-    "date": "2026-08-22T11:27:28.502610+00:00",
-    "title": "Why Human Giants Defy the Laws of Physics",
-    "skipped": true
-  },
-  "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance-20260821/": {
-    "date": "2026-08-22T11:27:28.502612+00:00",
-    "title": "\u2018Huge Breakthrough\u2019 in the Math of Imbalance",
-    "skipped": true
-  },
-  "https://www.noemamag.com/introducing-noema-issue-vii-the-next-axial-age": {
-    "date": "2026-08-22T11:27:28.502614+00:00",
-    "title": "Introducing Noema Issue VII: The Next Axial Age",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/08/21/odds-and-ends-maija-hurme/": {
-    "date": "2026-08-22T11:27:28.502617+00:00",
-    "title": "The Loveliness of Letting Go: An Illustrated Ode to Life\u2019s Lasts",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/08/21/anais-nin-d-h-lawrence/": {
-    "date": "2026-08-22T11:27:28.502619+00:00",
-    "title": "How to Be Un-Dead: Notes on Waking Up from the Trance of Near-Living",
-    "skipped": true
-  },
-  "https://www.themarginalian.org/2026/08/21/the-other-significant-others/": {
-    "date": "2026-08-22T11:27:28.502621+00:00",
-    "title": "The Other Significant Others: Living and Loving Outside the Confines of Conventional Friendship and Compulsory Coupledom",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/merrell-us-teacher-discount/?utm_source=rss&utm_medium=rss&utm_campaign=merrell-us-teacher-discount": {
-    "date": "2026-08-22T11:27:28.502623+00:00",
-    "title": "Deal of the Day: Save 15% With Merrell US",
-    "skipped": true
-  },
-  "https://www.weareteachers.com/french-vocabulary-words/?utm_source=rss&utm_medium=rss&utm_campaign=french-vocabulary-words": {
-    "date": "2026-08-22T11:27:28.502626+00:00",
-    "title": "French Vocabulary Words (Activities and Free Printable List and Cards)",
-    "skipped": true
-  },
   "https://hechingerreport.org/opinion-the-leaders-who-are-shaping-early-childhood-education-need-better-more-professional-preparation/": {
     "date": "2026-08-24T11:36:27.392543+00:00",
     "title": "OPINION: The leaders who are shaping early childhood education need better, more professional preparation",
@@ -5527,6 +4917,191 @@
   "https://larryferlazzo.edublogs.org/2026/10/02/sentences-of-the-week-38/": {
     "date": "2026-10-02T16:35:48.888051+00:00",
     "title": "Sentences Of The Week",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/memphis-schools-takeover-could-move-forward-soon/": {
+    "date": "2026-10-06T17:08:04.257845+00:00",
+    "title": "Memphis Schools Takeover Could Move Forward Soon",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/the-invisible-pedagogy-jody-lashay-wood-on-the-art-of-storytelling-for-teachers/": {
+    "date": "2026-10-06T17:08:04.257860+00:00",
+    "title": "The Invisible Pedagogy: Jody LaShay Wood on the Art of Storytelling for Teachers",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/philanthropy-once-built-schools-today-it-could-build-a-new-way-to-learn-math/": {
+    "date": "2026-10-06T17:08:04.257862+00:00",
+    "title": "Opinion: Philanthropy Once Built Schools. Today, It Could Build a New Way to Learn Math",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/missouri-relying-on-uncertified-or-undercertified-educators-to-fill-openings/": {
+    "date": "2026-10-06T17:08:04.257864+00:00",
+    "title": "Missouri Relying on Uncertified \u2014\u00a0or Undercertified \u2014\u00a0Educators to Fill Openings",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/how-to-fix-michigans-literacy-crisis-start-with-poverty-and-housing-solutions-experts-say/": {
+    "date": "2026-10-06T17:08:04.257865+00:00",
+    "title": "How to Fix Michigan\u2019s Literacy Crisis? Poverty and Housing Solutions, Experts Say",
+    "skipped": true
+  },
+  "https://www.the74million.org/article/do-americans-worry-about-schools-becoming-too-white-too-asian/": {
+    "date": "2026-10-06T17:08:04.257867+00:00",
+    "title": "Do Americans Worry About Schools Becoming Too White? Too Asian?",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/quick-takes/2026/10/06/uw-madison-scientist-wins-2026-nobel-prize-physics": {
+    "date": "2026-10-06T17:08:04.257869+00:00",
+    "title": "UW Madison Scientist Wins 2026 Nobel Prize in Physics",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/government/student-aid-policy/2026/10/06/default-rates-offer-warning-colleges": {
+    "date": "2026-10-06T17:08:04.257871+00:00",
+    "title": "As National Default Rate Stays Low, Other Data Offers Warning",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/quick-takes/2026/10/06/stanford-scientist-wins-nobel-prize-physiology-medicine": {
+    "date": "2026-10-06T17:08:04.257873+00:00",
+    "title": "Stanford Scientist Wins Nobel Prize in Physiology or Medicine",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/institutions/minority-serving-institutions/2026/10/06/how-hsis-can-move-forward-after-federal": {
+    "date": "2026-10-06T17:08:04.257875+00:00",
+    "title": "How HSIs Can Move Forward After Federal Funding Cuts",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/quick-takes/2026/10/06/ed-announces-additional-39m-trio-grantees": {
+    "date": "2026-10-06T17:08:04.257876+00:00",
+    "title": "ED Announces Additional $39M for TRIO Grantees",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/quick-takes/2026/10/06/free-community-college-part-amazons-1b-data-center-plan": {
+    "date": "2026-10-06T17:08:04.257878+00:00",
+    "title": "Free Community College Part of Amazon\u2019s $1B Plan to Quell Data Center Backlash",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/student-success/college-experience/2026/10/06/4-lessons-lower-income-student-success": {
+    "date": "2026-10-06T17:08:04.257879+00:00",
+    "title": "4 Lessons on Lower-Income Student Success",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/governance/executive-leadership/2026/10/06/cornell-will-take-serious-look-role-greek-life": {
+    "date": "2026-10-06T17:08:04.257881+00:00",
+    "title": "Cornell Will Take \u2018Serious Look\u2019 at Role of Greek Life, President Says",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/news/business/cost-cutting/2026/10/06/some-campuses-announced-massive-personnel-cuts-september": {
+    "date": "2026-10-06T17:08:04.257882+00:00",
+    "title": "Some Campuses Announced Massive Personnel Cuts in September",
+    "skipped": true
+  },
+  "https://www.insidehighered.com/opinion/columns/resident-scholar/2026/10/06/hbcu-television-show-reboot-clinched-top-spot-netflix": {
+    "date": "2026-10-06T17:08:04.257883+00:00",
+    "title": "\u2018A Different World\u2019 Reached No. 1. Why That Matters for HBCUs and Hollywood",
+    "skipped": true
+  },
+  "https://www.gettingsmart.com/2026/10/06/from-compliance-to-contribution-what-happens-when-students-do-work-that-matters/": {
+    "date": "2026-10-06T17:08:04.257885+00:00",
+    "title": "From Compliance to Contribution: What Happens When Students Do Work That Matters",
+    "skipped": true
+  },
+  "https://nautil.us/the-incas-adorned-animal-sacrifices-with-coca-leaves-1285576/": {
+    "date": "2026-10-06T17:08:04.257886+00:00",
+    "title": "The Incas Adorned Animal Sacrifices With Coca Leaves",
+    "skipped": true
+  },
+  "https://nautil.us/thousands-of-fancy-dishes-have-survived-a-2100-year-old-shipwreck-1285571/": {
+    "date": "2026-10-06T17:08:04.257888+00:00",
+    "title": "Thousands of Fancy Dishes Have Survived a 2,100-Year-Old Shipwreck",
+    "skipped": true
+  },
+  "https://nautil.us/david-byrne-awakens-the-story-of-dark-matter-1285530/": {
+    "date": "2026-10-06T17:08:04.257889+00:00",
+    "title": "David Byrne Awakens the Story of Dark Matter",
+    "skipped": true
+  },
+  "https://nautil.us/fat-cells-may-retain-a-memory-of-obesity-1285557/": {
+    "date": "2026-10-06T17:08:04.257891+00:00",
+    "title": "Fat Cells May Retain a Memory of Obesity",
+    "skipped": true
+  },
+  "https://nautil.us/do-babies-feel-shame-1285554/": {
+    "date": "2026-10-06T17:08:04.257893+00:00",
+    "title": "Do Babies Feel Shame?",
+    "skipped": true
+  },
+  "https://nautil.us/why-zombie-cells-build-up-as-we-age-1285549/": {
+    "date": "2026-10-06T17:08:04.257895+00:00",
+    "title": "Why \u201cZombie Cells\u201d Build Up as We Age",
+    "skipped": true
+  },
+  "https://nautil.us/pigeon-dads-step-up-in-tough-times-1285543/": {
+    "date": "2026-10-06T17:08:04.257896+00:00",
+    "title": "Pigeon Dads Step Up in Tough Times",
+    "skipped": true
+  },
+  "https://nautil.us/how-an-accidental-virus-release-triggered-1977s-russian-flu-1285538/": {
+    "date": "2026-10-06T17:08:04.257898+00:00",
+    "title": "How An Accidental Virus Release Triggered 1977\u2019s \u201cRussian\u00a0Flu\u201d",
+    "skipped": true
+  },
+  "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight": {
+    "date": "2026-10-06T17:08:04.257899+00:00",
+    "title": "How to assemble science",
+    "skipped": true
+  },
+  "https://www.aspeninstitute.org/blog-posts/know-a-courageous-leader-taking-on-a-critical-issue-nominate-them-for-the-mcnulty-prize-catalyst-fund/": {
+    "date": "2026-10-06T17:08:04.257901+00:00",
+    "title": "Know a Courageous Leader Taking On a Critical Issue? Nominate Them for the McNulty Prize & Catalyst Fund",
+    "skipped": true
+  },
+  "https://www.themarginalian.org/2026/10/05/diane-ackerman-a-slender-thread/": {
+    "date": "2026-10-06T17:08:04.257903+00:00",
+    "title": "Loneliness, Resilience, and the Right Choice: Poet Diane Ackerman on What She Learned While Working at a Suicide Prevention Hotline",
+    "skipped": true
+  },
+  "https://www.themarginalian.org/2026/10/05/david-bowie-creativity-advice/": {
+    "date": "2026-10-06T17:08:04.257905+00:00",
+    "title": "David Bowie on Creativity and His Advice to Artists",
+    "skipped": true
+  },
+  "https://www.themarginalian.org/2026/10/05/nietzsche-walking/": {
+    "date": "2026-10-06T17:08:04.257906+00:00",
+    "title": "Nietzsche on Walking and Creativity",
+    "skipped": true
+  },
+  "https://www.weareteachers.com/november-new-books/?utm_source=rss&utm_medium=rss&utm_campaign=november-new-books": {
+    "date": "2026-10-06T17:08:04.257908+00:00",
+    "title": "Best New Books Coming in November 2026 for Kids and Teens",
+    "skipped": true
+  },
+  "https://www.weareteachers.com/interactive-bulletin-boards/?utm_source=rss&utm_medium=rss&utm_campaign=interactive-bulletin-boards": {
+    "date": "2026-10-06T17:08:04.257910+00:00",
+    "title": "40 Unique Interactive Bulletin Boards To Engage Your Students",
+    "skipped": true
+  },
+  "https://www.weareteachers.com/fubo-teacher-discount/?utm_source=rss&utm_medium=rss&utm_campaign=fubo-teacher-discount": {
+    "date": "2026-10-06T17:08:04.257911+00:00",
+    "title": "Deal of the Day: Get $30 Off Your First Two Months of Fubo",
+    "skipped": true
+  },
+  "https://www.weareteachers.com/argumentative-writing-prompts/?utm_source=rss&utm_medium=rss&utm_campaign=argumentative-writing-prompts": {
+    "date": "2026-10-06T17:08:04.257913+00:00",
+    "title": "130+ Best Argumentative Essay Topics for Students (Plus Free Worksheets)",
+    "skipped": true
+  },
+  "https://larryferlazzo.edublogs.org/2026/10/06/this-weeks-round-up-of-useful-posts-articles-on-ed-policy-issues-525/": {
+    "date": "2026-10-06T17:08:04.257921+00:00",
+    "title": "This Week\u2019s \u201cRound-Up\u201d Of Useful Posts & Articles On Ed Policy Issues",
+    "skipped": true
+  },
+  "https://larryferlazzo.edublogs.org/2026/10/06/around-the-web-in-esl-efl-ell-380/": {
+    "date": "2026-10-06T17:08:04.257922+00:00",
+    "title": "Around The Web In ESL/EFL/ELL",
+    "skipped": true
+  },
+  "https://larryferlazzo.edublogs.org/2026/10/06/fannie-lou-hamer-was-born-on-this-day-here-are-teaching-learning-resources-6/": {
+    "date": "2026-10-06T17:08:04.257924+00:00",
+    "title": "Fannie Lou Hamer Was Born On This Day \u2013 Here Are Teaching & Learning Resources",
     "skipped": true
   }
 }
